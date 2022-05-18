@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to Zhongyuan's Pages
 
-You can use the [editor on GitHub](https://github.com/yuanzero/Liaozy.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am **LIAO Zhongyuan**, a PhD student in HKUST. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
+#### HKUST 09/2021 -
+Ph.D. student in Smart Manufaturing
 
-### Markdown
+#### South China University of Technology	09/2018 - 06/2021
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+M.S. in Mechanical Engineering
 
-```markdown
-Syntax highlighted code block
+#### South China University of Technology	09/2014 - 06/2018
+B.S. in Mechanical Engineering
 
-# Header 1
-## Header 2
-### Header 3
+## Research interest
+- Soft robotics
+- Hunman computer interaction (HCI)
+- Structure optimization
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+[Google Scholar](https://scholar.google.com/citations?user=pUZcwkwAAAAJ&hl=en) and ![Image](src)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Publication
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yuanzero/Liaozy.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
