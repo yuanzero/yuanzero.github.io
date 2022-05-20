@@ -46,9 +46,9 @@ B.S. in Mechanical Engineering
 [Google Scholar](https://scholar.google.com/citations?user=pUZcwkwAAAAJ&hl=en) 
 [ResearchGate](https://www.researchgate.net/profile/Zhongyuan-Liao) 
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
  
  ## Just for fun
+ 
  <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
@@ -56,3 +56,5 @@ B.S. in Mechanical Engineering
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
