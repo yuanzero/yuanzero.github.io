@@ -53,8 +53,7 @@ B.S. in Mechanical Engineering
 [Google Scholar](https://scholar.google.com/citations?user=pUZcwkwAAAAJ&hl=en) 
 [ResearchGate](https://www.researchgate.net/profile/Zhongyuan-Liao) 
 
- 
- ## Just for fun
+## Just for fun
  
  <!-- Markdown -->
 
