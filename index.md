@@ -46,5 +46,5 @@ B.S. in Mechanical Engineering
 [ResearchGate](https://www.researchgate.net/profile/Zhongyuan-Liao) 
 
 
-![Zhongyuan's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=yuanzero&show_icons=true&count_private=true&theme=gotham)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuanzero&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Zhongyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuanzero)](https://github.com/anuraghazra/github-readme-stats)
