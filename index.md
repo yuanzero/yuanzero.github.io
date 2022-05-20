@@ -1,4 +1,5 @@
-## Welcome to Zhongyuan's Pages
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=F74723&center=true&lines=WELCOME+TO+ZHONGYUAN'S+PAGE!)](https://git.io/typing-svg)
 
 I am **LIAO Zhongyuan**, a PhD student in HKUST. 
 
@@ -45,3 +46,13 @@ B.S. in Mechanical Engineering
 [Google Scholar](https://scholar.google.com/citations?user=pUZcwkwAAAAJ&hl=en) 
 [ResearchGate](https://www.researchgate.net/profile/Zhongyuan-Liao) 
 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+ 
+ ## Just for fun
+ <!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
