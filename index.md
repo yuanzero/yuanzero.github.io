@@ -28,6 +28,7 @@ B.S. in Mechanical Engineering
 - Hunman computer interaction (HCI)
 - Machine learning
 - Structure optimization
+- AR/VR applications
 
 ## Honors and Awards
 
