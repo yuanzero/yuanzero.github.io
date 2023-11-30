@@ -9,8 +9,8 @@
 
 
 ## Education
-#### Hong Kong University of Science and Technology 09/2021 -
-Ph.D. student in Smart Manufacturing
+#### Hong Kong University of Science and Technology 09/2021 -expected 2024
+Ph.D. Candidate in Smart Manufacturing
 
 #### South China University of Technology	09/2018 - 06/2021
 
@@ -25,13 +25,14 @@ B.S. in Mechanical Engineering
 - Digital twins 
 - Soft robotics and sensors
 - Internet of things
-- Hunman computer interaction (HCI)
+- Human-computer interaction (HCI)
 - Machine learning
 - Structure optimization
 - AR/VR applications
 
 ## Honors and Awards
 
+- Outstanding paper, NAMRC51 2023
 - National Scholarship 2019, 2020
 - Outstanding Student of Guangdong Province 2021
 - Meritorious Winner of COMAP’s Mathematical Contest in Modeling (MCM) 2017
@@ -52,6 +53,7 @@ B.S. in Mechanical Engineering
 ```
 ## Follow me:
 [Google Scholar](https://scholar.google.com/citations?user=pUZcwkwAAAAJ&hl=en) 
+
 [ResearchGate](https://www.researchgate.net/profile/Zhongyuan-Liao) 
 
 ## Just for fun
