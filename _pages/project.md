@@ -59,7 +59,7 @@ author_profile: true
 
   [PDF](../../files/Liao 等。 - 2019 - A triple acceleration method for topology optimiza.pdf)
   
-  [PDF](../../files/Liao 等。 - 2022 - Deep-learning-based isogeometric inverse design fo.pdf)
+  [PDF](../../files/Wang 等。 - 2020 - An efficient isogeometric topology optimization us.pdf)
 
 ![image](https://github.com/user-attachments/assets/217c9091-8008-496c-9bbe-a8622a355caf)
 
