@@ -1,6 +1,6 @@
 
 ## Education
-#### Hong Kong University of Science and Technology 09/2021 -expected 2024
+#### Hong Kong University of Science and Technology 09/2021 -08/2024
 Ph.D. in IIP(Smart Manufacturing)
 
 #### South China University of Technology	09/2018 - 06/2021
@@ -9,6 +9,20 @@ M.S. in Mechanical Engineering
 
 #### South China University of Technology	09/2014 - 06/2018
 B.S. in Mechanical Engineering
+
+## Professional Experience
+
+#### North Carolina State University Raleigh, USA
+Visiting Scholar in the Department of Industrial and Systems Engineering, 2024 
+Supervisor: Prof. Yuan-Shin Lee
+
+#### Peking University Beijing, China
+Visiting Student in College of Engineering, 2024 
+Supervisor: Prof. Ke Liu
+
+## Internship
+• ZWCAD Co. Ltd, Graphic Algorithm Engineer, 2021
+• Guangzhou Tongda Auto Electric Co., LTD, Mechanical Structure Engineer, 2017
 
 ## Research Interest
 
