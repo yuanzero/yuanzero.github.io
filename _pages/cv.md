@@ -70,7 +70,7 @@ redirect_from:
     <img src="https://img.icons8.com/color/452/solidworks.png" alt="solidworks" width="40" height="40"/> 
   </a> 
   <a href="https://www.ansys.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/dusk/452/000000/ansys.png" alt="ansys" width="40" height="40"/> 
+    <img src="![image](https://github.com/user-attachments/assets/3dc5f520-b310-4c11-820e-9ec5e131255e)" alt="ansys" width="40" height="40"/> 
   </a> 
   <a href="https://www.altair.com/hyperworks/" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/plasticine/452/hyperworks.png" alt="hyperworks" width="40" height="40"/> 
