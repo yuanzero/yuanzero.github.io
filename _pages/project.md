@@ -6,6 +6,7 @@ author_profile: true
 
 ---
 
+<div style="text-align: justify">
 
 - **Digital Twin Systems for Reconfigurable Soft Robots (2023-present)**
   
@@ -43,3 +44,4 @@ author_profile: true
   This research proposes a multiscale topology optimization method based on the homogenization method, which generates graded-density lattice structures according to actual loads to achieve optimal performance. The method combines MATLAB with ANSYS, where optimization is performed in MATLAB and FEA computing and modeling are conducted in ANSYS. The lattice structure is rebuilt using Rhinoceros. Compared with the beam-model-based lattice optimization method from commercial software HyperWorks, the proposed method achieves better performance in mass reduction and stress distribution. The feasibility of manufacturing the lattice structure is demonstrated through 3D printing.
 
 ![image](https://github.com/user-attachments/assets/9586c63b-2e20-48eb-96da-926c93dc436e)
+</div>
