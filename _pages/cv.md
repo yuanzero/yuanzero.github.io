@@ -35,7 +35,7 @@ B.S. in Mechanical Engineering
 ## Publication
 
 ```
-# Refereed Journal Papers:
+Refereed Journal Papers:
 
 [1] Zhongyuan Liao, Chen J., Cai Y.*. “Reconfigurable Soft Robots based on Modular Design”. Computer-Aided Design and Applications, 20(6), 1141-1153, 2023.
 [2] Zhongyuan Liao, Li T., Wang Y., Cai Y.*. “Soft Pneumatic Actuator Optimal Design Based on Isogeometric Analysis”. Manufacturing Letters, 35: 55-63, 2023.
@@ -52,26 +52,26 @@ B.S. in Mechanical Engineering
 [13] Zhongyuan Liao, Y. Zhang, Y. Wang, and W. Li, “A triple acceleration method for topology optimization”, Structural and Multidisciplinary Optimization, vol. 60, no. 2, pp. 727–744, Aug. 2019.
 [14] Zhongyuan Liao, Cai Y.*, "AR-enabled Digital Twin System for Reconfigurable Soft Robot: Visualization, Control and Interaction". In Preparation.
 
-# Refereed Conference Proceedings:
+Refereed Conference Proceedings:
 
 [1] Zhongyuan Liao, Chen, J., Cai Y.*, “Reconfigurable Soft Robots based on Modular Design”, Proceedings of the 19th annual International CAD Conference, Beijing, China, July 11-13, pp. 324-328, 2022.
 [2] Zhongyuan Liao, Wei W., Zhang L., Cai Y.*, "Sensor Fusion-based Parameterized Curve-driven Modeling for Digital Twin of Reconfigurable Soft Robot". Proceedings of The 6th IEEE/IFToMM International Conference on Reconfigurable Mechanisms and Robots, Chicago, USA, June, 2024.
 [3] Zhongyuan Liao, Cai Y.*, "Human-centric Five-dimensional Digital Twin Model: A Case Study in AR-enhanced Human-Robot Collaboration". Proceedings of The 2024 Flexible Automation and Intelligent Manufacturing International Conference, Taiwan, China, June, 2024.
 [4] Wang Y., Zhongyuan Liao, Zhang Y., A New High-efficiency Isogeometric Topology Optimization. The 13th World Congress of Structural and Multidisciplinary Optimization, May 19-24, 2019, Beijing, China.
 
-# Unrefereed Conference Paper:
+Unrefereed Conference Paper:
 
 [1] Zhongyuan Liao, Cai, Y.*, "An Augmented Reality-Based Digital Twin System for Enhancing Human-Robot Interaction in Manufacturing", Oral presentation. 2023 Annual International Conference for Chinese Scholars in Industrial Engineering, Guangzhou, China, August 10-12, 2023.
 [2] Zhongyuan Liao, Wang, Y., "Multiple-accelerated isogeometric topology optimization method", Poster. Proceedings of Chinese Congress of Theoretical and Applied Mechanics, Hangzhou, China, Summer 2019.
 [3] Zhongyuan Liao, Wang, Y., "The topology optimization based on triple-accelerated method", Oral presentation. Proceedings of 2018 National Conference on Solid Mechanics, Harbin, China, Winter 2018.
 
-# Thesis:
+Thesis:
 
 [1] Zhongyuan Liao. AR-enhanced Digital Twin System for Reconfigurable Soft Robots. PhD Thesis. The Hong Kong University of Science and Technology.
 [2] Zhongyuan Liao. Research on Efficient Structure optimization Method based on Isogeometric Analysis. Master Thesis. South China University of Technology.
 [3] Zhongyuan Liao. Design of high-performance Variable density lattice Connecting rod Based on Topology Optimization. Bachelor Thesis. South China University of Technology.
 
-# Patents:
+Patents:
 
 [1] Wang Yingjun, Zhongyuan Liao. A triple acceleration topology optimization method. C.N. Patent: CN109840348B, issued in 2023.
 [2] Wang Yingjun, Yang Yuhao, Zhongyuan Liao. The automatic construction method and system of editable model with equal geometric topology optimization results. C.N. Patent: CN112926207B, issued in 2022.
