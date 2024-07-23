@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=F74723&center=true&lines=WELCOME+TO+ZHONGYUAN'S+PAGE!)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm LIAO Zhongyuan</h1>
