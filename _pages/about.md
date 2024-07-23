@@ -15,5 +15,6 @@ redirect_from:
 <p align="left">
 </p>
 
+<div style="text-align: justify">
 As a PhD graduate from HKUST, I have established myself as an expert in spearheading interdisciplinary research initiatives, aimed at solving intricate problems in the engineering and technology sectors. At the core of my research philosophy lies a dynamic interplay between the soft and hard, encapsulating everything from sophisticated software algorithms to cutting-edge hardware. This holistic approach empowers me to forge bridges between virtual models and their physical counterparts, leveraging the potent synergy of AR/VR and IoT technologies to craft seamless integrations between digital twins and their real-world manifestations. 
-
+</div>
