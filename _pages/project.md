@@ -13,7 +13,7 @@ author_profile: true
 
   </div>
 
-  [PDF](../files/IEEE_ReMAR_2024_revise.pdf)
+  [PDF](../../files/IEEE_ReMAR_2024_revise.pdf)
   
   ![image](https://github.com/user-attachments/assets/9baa2638-1ac0-497f-b1d2-6ecedd739370)
 
@@ -25,7 +25,7 @@ author_profile: true
    
   </div>
 
-  [PDF](../files/s40974-024-00327-7 (1).pdf)
+  [PDF](../../files/s40974-024-00327-7 (1).pdf)
   
   ![image](https://github.com/user-attachments/assets/65b3a29e-05fd-45bc-9034-52c65106827c)
 
@@ -36,7 +36,7 @@ author_profile: true
      
   </div>
 
-  [PDF](../files/CAD_20(6)_2023_1141-1153 (1).pdf)
+  [PDF](../../files/CAD_20(6)_2023_1141-1153 (1).pdf)
   
 - **Data-Driven Shape Optimization Design for Auxetics Using Isogeometric Analysis (2019-2021)**
 
@@ -45,7 +45,7 @@ author_profile: true
 
   </div>
   
-  [PDF](../files/Liao 等。 - 2022 - Deep-learning-based isogeometric inverse design fo.pdf)
+  [PDF](../../files/Liao 等。 - 2022 - Deep-learning-based isogeometric inverse design fo.pdf)
 
 ![image](https://github.com/user-attachments/assets/0a9be658-006d-4ecf-9763-0bf8fa5e8d29)
 
@@ -57,9 +57,9 @@ author_profile: true
 
   </div>
 
-  [PDF](../files/Liao 等。 - 2019 - A triple acceleration method for topology optimiza.pdf)
+  [PDF](../../files/Liao 等。 - 2019 - A triple acceleration method for topology optimiza.pdf)
   
-  [PDF](../files/Liao 等。 - 2022 - Deep-learning-based isogeometric inverse design fo.pdf)
+  [PDF](../../files/Liao 等。 - 2022 - Deep-learning-based isogeometric inverse design fo.pdf)
 
 ![image](https://github.com/user-attachments/assets/217c9091-8008-496c-9bbe-a8622a355caf)
 
@@ -71,6 +71,6 @@ author_profile: true
   
   </div>
 
-  [PDF](../files/Liao - 2019 - Graded-density Lattice Structure Optimization Desi.pdf)
+  [PDF](../../files/Liao - 2019 - Graded-density Lattice Structure Optimization Desi.pdf)
 
 ![image](https://github.com/user-attachments/assets/9586c63b-2e20-48eb-96da-926c93dc436e)
