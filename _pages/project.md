@@ -35,6 +35,8 @@ author_profile: true
   This research involves designing soft robots using Computer-Aided Design (CAD) software, such as SolidWorks and Inventor. Soft robot performance is optimized using simulation software, including COMSOL and MATLAB. Additive manufacturing and molding technologies are employed to fabricate soft robots. Additionally, the connection mechanism is designed for the reconfigurable modular soft robots.
      
   </div>
+
+  [PDF](files/CAD_20(6)_2023_1141-1153 (1).pdf)
   
 - **Data-Driven Shape Optimization Design for Auxetics Using Isogeometric Analysis (2019-2021)**
 
@@ -55,6 +57,7 @@ author_profile: true
 
   </div>
 
+  [PDF](files/Liao 等。 - 2019 - A triple acceleration method for topology optimiza.pdf)
   [PDF](files/Liao 等。 - 2022 - Deep-learning-based isogeometric inverse design fo.pdf)
 
 ![image](https://github.com/user-attachments/assets/217c9091-8008-496c-9bbe-a8622a355caf)
