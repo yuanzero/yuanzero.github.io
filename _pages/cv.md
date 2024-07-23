@@ -9,50 +9,41 @@ redirect_from:
 
 {% include base_path %}
 
+
 ## Education
-#### Hong Kong University of Science and Technology 09/2021 -08/2024
-Ph.D. in IIP(Smart Manufacturing)
+### Hong Kong University of Science and Technology (09/2021 - 08/2024)
+- Ph.D. in IIP (Smart Manufacturing)
 
-#### South China University of Technology	09/2018 - 06/2021
+### South China University of Technology (09/2018 - 06/2021)
+- M.S. in Mechanical Engineering
 
-M.S. in Mechanical Engineering
-
-#### South China University of Technology	09/2014 - 06/2018
-B.S. in Mechanical Engineering
+### South China University of Technology (09/2014 - 06/2018)
+- B.S. in Mechanical Engineering
 
 ## Professional Experience
+### North Carolina State University, Raleigh, USA
+- Visiting Scholar in the Department of Industrial and Systems Engineering, 2024
+- Supervisor: Prof. Yuan-Shin Lee
 
-#### North Carolina State University, Raleigh, USA
-
-Visiting Scholar in the Department of Industrial and Systems Engineering, 2024
-
-Supervisor: Prof. Yuan-Shin Lee
-
-#### Peking University, Beijing, China
-
-Visiting Student in College of Engineering, 2024 
-
-Supervisor: Prof. Ke Liu
+### Peking University, Beijing, China
+- Visiting Student in College of Engineering, 2024
+- Supervisor: Prof. Ke Liu
 
 ## Internship
-
-• ZWCAD Co. Ltd, Graphic Algorithm Engineer, 2021
-
-• Guangzhou Tongda Auto Electric Co., LTD, Mechanical Structure Engineer, 2017
+- ZWCAD Co. Ltd, Graphic Algorithm Engineer, 2021
+- Guangzhou Tongda Auto Electric Co., LTD, Mechanical Structure Engineer, 2017
 
 ## Research Interest
-
-- Additive manufacturing
-- Digital twins 
-- Soft robotics and sensors
-- Internet of things
-- Human-computer interaction (HCI)
-- Machine learning
-- Structure optimization
-- AR/VR applications
+- Topology/Shape Optimization
+- Metamaterial Design
+- Advanced Additive Manufacturing Techniques
+- Reconfigurable Soft Robots
+- Digital Twin
+- AR/VR Technologies
+- Internet of Things
+- Human-Robot Interaction
 
 ## Honors and Awards
-
 - Outstanding paper, NAMRC51 2023
 - National Scholarship 2019, 2020
 - Outstanding Student of Guangdong Province 2021
