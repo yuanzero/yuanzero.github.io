@@ -23,7 +23,7 @@ author_profile: true
    
   </div>
 
-  [PDF](/files/s40974-024-00327-7 (1).pdf)
+  [PDF](files/s40974-024-00327-7 (1).pdf)
   
   ![image](https://github.com/user-attachments/assets/65b3a29e-05fd-45bc-9034-52c65106827c)
 
