@@ -73,10 +73,10 @@ redirect_from:
     <img src="https://github.com/user-attachments/assets/3dc5f520-b310-4c11-820e-9ec5e131255e" alt="ansys" width="40" height="40"/> 
 </a>
   <a href="https://www.altair.com/hyperworks/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/plasticine/452/hyperworks.png" alt="hyperworks" width="40" height="40"/> 
+    <img src="https://github.com/user-attachments/assets/aa6b309e-a993-4529-83fa-b6d64068fc80" alt="hyperworks" width="40" height="40"/> 
   </a> 
   <a href="https://ultimaker.com/software/ultimaker-cura" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/452/cura.png" alt="cura" width="40" height="40"/> 
+    <img src="https://github.com/user-attachments/assets/87e98d4f-8cc3-4bcd-a28c-a937ac0435ef" alt="cura" width="40" height="40"/> 
   </a> 
 </p>
 
