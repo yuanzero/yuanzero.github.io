@@ -12,6 +12,8 @@ author_profile: true
   In this study, we propose an innovative approach to constructing a digital twin (DT) system for reconfigurable soft robots in an augmented reality (AR) environment. Our approach utilizes armature-based methods to modify and reconstruct the digital twin of reconfigurable soft robots in the AR environment, allowing for continuous representation of their deformations. We identify three fundamental types of deformation patterns - stretching, bending, and twisting - and propose corresponding visualization patterns to represent these transformations accurately. Additionally, we employ a sensor fusion method to capture the soft robot's deformation as a parameterized curve, enabling more precise visualization in the AR environment. The proposed framework is implemented in the AR environment, providing immersive inspection and reconfigurable simulation for real-world soft robots, enhancing their adaptability and functionality.
 
   </div>
+
+  [PDF](files/IEEE_ReMAR_2024_revise.pdf)
   
   ![image](https://github.com/user-attachments/assets/9baa2638-1ac0-497f-b1d2-6ecedd739370)
 
@@ -40,6 +42,8 @@ author_profile: true
   This project implements a back-propagation neural network (BPNN)-based design framework for petal-shaped auxetics using isogeometric analysis, and proposes a deep neural networks (DNN) framework for tetra-chiral auxetics shape optimization design. The highly nonlinear relation between the input geometry variables and the effective material properties is fitted by a data-driven method (i.e., BPNN, DNN), facilitated by the NURBS-based parametric modeling scheme with a small number of design variables. This enables an easy analytical sensitivity analysis, demonstrating high accuracy and efficiency. Optimal auxetic structures are produced using 3D printing and experimentally tested for their properties. The implementation is based on the collaboration between Matlab and TensorFlow.
 
   </div>
+  
+  [PDF](files/Liao 等。 - 2022 - Deep-learning-based isogeometric inverse design fo.pdf)
 
 ![image](https://github.com/user-attachments/assets/0a9be658-006d-4ecf-9763-0bf8fa5e8d29)
 
@@ -51,6 +55,8 @@ author_profile: true
 
   </div>
 
+  [PDF](files/Liao 等。 - 2022 - Deep-learning-based isogeometric inverse design fo.pdf)
+
 ![image](https://github.com/user-attachments/assets/217c9091-8008-496c-9bbe-a8622a355caf)
 
 
@@ -60,5 +66,7 @@ author_profile: true
   This research proposes a multiscale topology optimization method based on the homogenization method, which generates graded-density lattice structures according to actual loads to achieve optimal performance. The method combines MATLAB with ANSYS, where optimization is performed in MATLAB and FEA computing and modeling are conducted in ANSYS. The lattice structure is rebuilt using Rhinoceros. Compared with the beam-model-based lattice optimization method from commercial software HyperWorks, the proposed method achieves better performance in mass reduction and stress distribution. The feasibility of manufacturing the lattice structure is demonstrated through 3D printing.
   
   </div>
+
+  [PDF](files/Liao - 2019 - Graded-density Lattice Structure Optimization Desi.pdf)
 
 ![image](https://github.com/user-attachments/assets/9586c63b-2e20-48eb-96da-926c93dc436e)
