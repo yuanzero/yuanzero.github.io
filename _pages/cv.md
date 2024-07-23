@@ -13,12 +13,15 @@ redirect_from:
 ## Education
 ### Hong Kong University of Science and Technology (09/2021 - 08/2024)
 - Ph.D. in IIP (Smart Manufacturing)
+- Supervisor: Prof. Yi Cai and Mingming Fan
 
 ### South China University of Technology (09/2018 - 06/2021)
 - M.S. in Mechanical Engineering
+- Supervisor: Prof. Yingjun Wang
 
 ### South China University of Technology (09/2014 - 06/2018)
 - B.S. in Mechanical Engineering
+- Supervisor: Prof. Zhijia Xu
 
 ## Professional Experience
 ### North Carolina State University, Raleigh, USA
@@ -62,7 +65,7 @@ redirect_from:
 Refereed Journal Papers:
 
 [1] Zhongyuan Liao, Chen J., Cai Y.*. “Reconfigurable Soft Robots based on Modular Design”. Computer-Aided Design and Applications, 20(6), 1141-1153, 2023.
-[2] Zhongyuan Liao, Li T., Wang Y., Cai Y.*. “Soft Pneumatic Actuator Optimal Design Based on Isogeometric Analysis”. Manufacturing Letters, 35: 55-63, 2023.
+[2] Zhongyuan Liao, Li T., Wang Y., Cai Y.*. “Soft Pneumatic Actuator Optimal Design Based on Isogeometric Analysis”. Manufacturing Letters, 35: 55-63, 2023. Presented at the 51st SME North American Manufacturing Research Conference, New Brunswick, New Jersey, USA, June 12-16, 2023. 
 [3] Zhongyuan Liao and Cai Y.*, “AR-enhanced digital twin for human-robot interaction in manufacturing systems”, Energy, Ecology and Environment, 2024.
 [4] Li, T., Zhongyuan Liao, Cai Y.*. “Physical Modeling for Digital Twin of Continuous Damping Control Damper”. Journal of Manufacturing Processes. vol. 99, pp. 96–104, 2023. Outstanding Paper Award of NAMRC51.
 [5] Chen, J., Zhongyuan Liao, Cai Y.*. “Enhancing Size Perception with True-Size Viewing CAD plug-in and Cloud-enabled AR APP”. Computer-Aided Design and Applications, 20(6), 1128-1140, 2023.
@@ -80,8 +83,7 @@ Refereed Conference Proceedings:
 
 [1] Zhongyuan Liao, Chen, J., Cai Y.*, “Reconfigurable Soft Robots based on Modular Design”, Proceedings of the 19th annual International CAD Conference, Beijing, China, July 11-13, pp. 324-328, 2022.
 [2] Zhongyuan Liao, Wei W., Zhang L., Cai Y.*, "Sensor Fusion-based Parameterized Curve-driven Modeling for Digital Twin of Reconfigurable Soft Robot". Proceedings of The 6th IEEE/IFToMM International Conference on Reconfigurable Mechanisms and Robots, Chicago, USA, June, 2024.
-[3] Zhongyuan Liao, Cai Y.*, "Human-centric Five-dimensional Digital Twin Model: A Case Study in AR-enhanced Human-Robot Collaboration". Proceedings of The 2024 Flexible Automation and Intelligent Manufacturing International Conference, Taiwan, China, June, 2024.
-[4] Wang Y., Zhongyuan Liao, Zhang Y., A New High-efficiency Isogeometric Topology Optimization. The 13th World Congress of Structural and Multidisciplinary Optimization, May 19-24, 2019, Beijing, China.
+[3] Wang Y., Zhongyuan Liao, Zhang Y., A New High-efficiency Isogeometric Topology Optimization. The 13th World Congress of Structural and Multidisciplinary Optimization, May 19-24, 2019, Beijing, China.
 
 Unrefereed Conference Paper:
 
@@ -102,7 +104,3 @@ Patents:
 [3] Wang Yingjun, Zhongyuan Liao. Software copyright: Isogeometric analysis software based on embedded domain reconstruction model (V1.0); Registration Number: 2021SR0045889, issued.
 
 ```
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
