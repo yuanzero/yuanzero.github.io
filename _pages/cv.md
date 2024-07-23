@@ -102,3 +102,7 @@ Patents:
 [3] Wang Yingjun, Zhongyuan Liao. Software copyright: Isogeometric analysis software based on embedded domain reconstruction model (V1.0); Registration Number: 2021SR0045889, issued.
 
 ```
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
