@@ -22,6 +22,8 @@ author_profile: true
   This research focuses on the development of a novel Augmented Reality (AR)-based digital twin system for human-robot interaction in manufacturing settings, with the aim of improving efficiency, accuracy, and adaptability. A three-level approach to digital twin technology is introduced, comprising virtual twin, hybrid twin, and cognitive twin levels, each offering unique functionalities. An intuitive AR-based interface is created, enabling users to interact with the digital twin through natural gestures, thereby streamlining programming and control processes. A comprehensive human-centric user study is conducted to validate the efficacy of the proposed system in minimizing setup time, reducing errors, and enhancing overall productivity.
    
   </div>
+
+  [PDF](/files/s40974-024-00327-7 (1).pdf)
   
   ![image](https://github.com/user-attachments/assets/65b3a29e-05fd-45bc-9034-52c65106827c)
 
