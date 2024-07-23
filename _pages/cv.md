@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
 
 ## Education
 #### Hong Kong University of Science and Technology 09/2021 -08/2024
