@@ -13,11 +13,11 @@ redirect_from:
 ## Education
 ### Hong Kong University of Science and Technology (09/2021 - 08/2024)
 - Ph.D. in IIP (Smart Manufacturing)
-- Supervisor: Prof. Yi Cai and Mingming Fan
+- Supervisor: Prof. [Yi Cai](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/CAI-Yi/yicai) and [Mingming Fan](https://www.mingmingfan.com/)
 
 ### South China University of Technology (09/2018 - 06/2021)
 - M.S. in Mechanical Engineering
-- Supervisor: Prof. Yingjun Wang
+- Supervisor: Prof. [Yingjun Wang](https://www.yingjun.group/75)
 
 ### South China University of Technology (09/2014 - 06/2018)
 - B.S. in Mechanical Engineering
@@ -26,11 +26,11 @@ redirect_from:
 ## Professional Experience
 ### North Carolina State University, Raleigh, USA
 - Visiting Scholar in the Department of Industrial and Systems Engineering, 2024
-- Supervisor: Prof. Yuan-Shin Lee
+- Supervisor: Prof. [Yuan-Shin Lee](https://ise.ncsu.edu/people/yslee/)
 
 ### Peking University, Beijing, China
 - Visiting Student in College of Engineering, 2024
-- Supervisor: Prof. Ke Liu
+- Supervisor: Prof. [Ke Liu](http://www2.coe.pku.edu.cn/faculty/liuke/)
 
 ## Internship
 - ZWCAD Co. Ltd, Graphic Algorithm Engineer, 2021
