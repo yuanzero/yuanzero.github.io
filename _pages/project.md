@@ -65,8 +65,6 @@ author_profile: true
 
 ![image](https://github.com/user-attachments/assets/217c9091-8008-496c-9bbe-a8622a355caf)
 
-![to](https://github.com/user-attachments/assets/9bbab0b4-0d1d-4dff-89ce-5b4fd99f3ac9)
-
 
 
 - **Graded-density Lattice Structure Optimization Design Based on Topology Optimization (2017-2018)**
