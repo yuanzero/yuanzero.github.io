@@ -1,3 +1,11 @@
+# Personal change
+
+in _pages, change the file about, cv, and project.
+
+in _data, change the navigation.yml, to change the items.
+
+in _config.yml, change the main information of left side.
+
 # Academic Pages
 
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
