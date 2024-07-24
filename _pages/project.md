@@ -13,7 +13,6 @@ author_profile: true
 
   </div>
 
-  [PDF](../../files/IEEE_ReMAR_2024_revise.pdf)
   
   ![image](https://github.com/user-attachments/assets/9baa2638-1ac0-497f-b1d2-6ecedd739370)
 
