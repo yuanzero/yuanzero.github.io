@@ -36,6 +36,9 @@ author_profile: true
   </div>
 
   [PDF](../../files/CAD_20(6)_2023_1141-1153 (1).pdf)
+
+  ![image](https://github.com/user-attachments/assets/cac57803-c525-4245-a089-5aa951f58cd1)
+
   
 - **Data-Driven Shape Optimization Design for Auxetics Using Isogeometric Analysis (2019-2021)**
 
@@ -61,6 +64,9 @@ author_profile: true
   [PDF](../../files/Wang 等。 - 2020 - An efficient isogeometric topology optimization us.pdf)
 
 ![image](https://github.com/user-attachments/assets/217c9091-8008-496c-9bbe-a8622a355caf)
+
+![to](https://github.com/user-attachments/assets/9bbab0b4-0d1d-4dff-89ce-5b4fd99f3ac9)
+
 
 
 - **Graded-density Lattice Structure Optimization Design Based on Topology Optimization (2017-2018)**
