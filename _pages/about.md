@@ -12,7 +12,6 @@ redirect_from:
 <h1 align="center">Hi 👋, I'm LIAO Zhongyuan</h1>
 <h3 align="center">A PhD from in HKUST.</h3>
 
-
 <p align="left">
 </p>
 
