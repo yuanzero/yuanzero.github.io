@@ -12,14 +12,17 @@ redirect_from:
 
 ## Education
 ### Hong Kong University of Science and Technology (09/2021 - 08/2024)
+- Academy of Interdisciplinary Studies (AIS)
 - Ph.D. in IIP (Smart Manufacturing)
 - Supervisor: Prof. [Yi Cai](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/CAI-Yi/yicai) and [Mingming Fan](https://www.mingmingfan.com/)
 
 ### South China University of Technology (09/2018 - 06/2021)
+- School of Mechanical and Automotive Engineering
 - M.S. in Mechanical Engineering
 - Supervisor: Prof. [Yingjun Wang](https://www.yingjun.group/75)
 
 ### South China University of Technology (09/2014 - 06/2018)
+- School of Mechanical and Automotive Engineering
 - B.S. in Mechanical Engineering
 - Supervisor: Prof. Zhijia Xu
 
