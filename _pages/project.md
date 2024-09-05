@@ -26,6 +26,8 @@ author_profile: true
 
   [PDF](../../files/s40974-024-00327-7 (1).pdf)
   
+  [Code](https://github.com/yuanzero/MR_Human-Robot-Interaction)
+  
   ![image](https://github.com/user-attachments/assets/65b3a29e-05fd-45bc-9034-52c65106827c)
 
 - **Design, Optimization, and Manufacturing Systems for Reconfigurable Modular Soft Robots (2021-2023)**
