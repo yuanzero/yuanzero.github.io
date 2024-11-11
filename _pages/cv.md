@@ -27,6 +27,12 @@ redirect_from:
 - Supervisor: Prof. Zhijia Xu
 
 ## Professional Experience
+
+### Hong Kong University of Science and Technology (09/2024 - now)
+- Hong Kong Center for Construction Robotics (HKCRC)
+- Postdoctoral fellow
+- Supervisor: Prof. [Michael Yu WANG](https://seng.hkust.edu.hk/about/people/faculty/michael-yu-wang)
+  
 ### North Carolina State University, Raleigh, USA
 - Visiting Scholar in the Department of Industrial and Systems Engineering, 2024
 - Supervisor: Prof. [Yuan-Shin Lee](https://ise.ncsu.edu/people/yslee/)
