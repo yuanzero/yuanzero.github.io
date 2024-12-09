@@ -112,19 +112,18 @@ Refereed Journal Papers:
 [4] Li, T., Zhongyuan Liao, Cai Y.*. “Physical Modeling for Digital Twin of Continuous Damping Control Damper”. Journal of Manufacturing Processes. vol. 99, pp. 96–104, 2023. Outstanding Paper Award of NAMRC51.
 [5] Chen, J., Zhongyuan Liao, Cai Y.*. “Enhancing Size Perception with True-Size Viewing CAD plug-in and Cloud-enabled AR APP”. Computer-Aided Design and Applications, 20(6), 1128-1140, 2023.
 [6] Zheng Y., Xiang J., Zhongyuan Liao, Li P., Cai X., Chen Z., and Huang J., “Hierarchical topology optimization with varying microstructural aspect ratios”, Engineering Analysis with Boundary Elements, vol. 156, pp. 34–47, 2023.
-[7] Wei W., Zhang L., Zhongyuan Liao and Cai Y.*, "Aerosol Jet Printing of Advanced Capacitive Strain Gauge for Vibration Monitoring of Human Body", Accepted by The International Journal of Advanced Manufacturing Technology.
+[7] Wei W., Zhang L., Zhongyuan Liao and Cai Y.*, "Aerosol Jet Printing of Advanced Capacitive Strain Gauge for Vibration Monitoring of Human Body", The International Journal of Advanced Manufacturing Technology, 2024.
 [8] Zhongyuan Liao, Y. Wang, L. Gao, and Z.-P. Wang, “Deep-learning-based isogeometric inverse design for tetra-chiral auxetics”, Composite Structures, vol. 280, p. 114 808, 2022.
 [9] Y. Wang, Zhongyuan Liao, S. Shi, Z. Wang, and L. Hien Poh, “Data-Driven Structural Design Optimization for Petal-Shaped Auxetics Using Isogeometric Analysis”, Computer Modeling in Engineering & Sciences, vol. 122, no. 2, pp. 433–458, 2020.
 [10] Y. Wang, Zhongyuan Liao, M. Ye, Y. Zhang, W. Li, and Z. Xia, “An efficient isogeometric topology optimization using multilevel mesh, MGCG and local-update strategy”, Advances in Engineering Software, vol. 139, p. 102 733, 2020, ESI Highly Cited Paper.
 [11] Y. Zheng, Y. Wang, X. Lu, Zhongyuan Liao, and J. Qu, “Evolutionary topology optimization for mechanical metamaterials with auxetic property”, International Journal of Mechanical Sciences, vol. 179, p. 105 638, Aug. 2020.
 [12] Zhongyuan Liao, Y. Wang, and S. Wang, “Graded-density Lattice Structure Optimization Design Based on Topology Optimization (in Chinese)”, Chinese Journal of Mechanical Engineering, vol. 55, no. 8, p. 65, 2019. 2021 Best Paper Award.
 [13] Zhongyuan Liao, Y. Zhang, Y. Wang, and W. Li, “A triple acceleration method for topology optimization”, Structural and Multidisciplinary Optimization, vol. 60, no. 2, pp. 727–744, Aug. 2019.
-[14] Zhongyuan Liao, Cai Y.*, "AR-enabled Digital Twin System for Reconfigurable Soft Robot: Visualization, Control and Interaction". In Preparation.
 
 Refereed Conference Proceedings:
 
 [1] Zhongyuan Liao, Chen, J., Cai Y.*, “Reconfigurable Soft Robots based on Modular Design”, Proceedings of the 19th annual International CAD Conference, Beijing, China, July 11-13, pp. 324-328, 2022.
-[2] Zhongyuan Liao, Wei W., Zhang L., Cai Y.*, "Sensor Fusion-based Parameterized Curve-driven Modeling for Digital Twin of Reconfigurable Soft Robot". Proceedings of The 6th IEEE/IFToMM International Conference on Reconfigurable Mechanisms and Robots, Chicago, USA, June, 2024.
+[2] Zhongyuan Liao, Wei W., Zhang L., Cai Y.*, "Sensor Fusion-based Parameterized Curve-driven Modeling for Digital Twin of Reconfigurable Soft Robot". Proceedings of The 6th IEEE/IFToMM International Conference on Reconfigurable Mechanisms and Robots, Chicago, USA, June 2024.
 [3] Wang Y., Zhongyuan Liao, Zhang Y., A New High-efficiency Isogeometric Topology Optimization. The 13th World Congress of Structural and Multidisciplinary Optimization, May 19-24, 2019, Beijing, China.
 
 Unrefereed Conference Paper:
