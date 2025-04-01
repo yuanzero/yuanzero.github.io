@@ -6,15 +6,19 @@ author_profile: true
 
 ---
 
-- **Digital Twin Systems for Reconfigurable Soft Robots (2023-present)**
+- **Digital Twin Systems for Reconfigurable Soft Robots (2023-2024)**
 
 <div style="text-align: justify">
-  In this study, we propose an innovative approach to constructing a digital twin (DT) system for reconfigurable soft robots in an augmented reality (AR) environment. Our approach utilizes armature-based methods to modify and reconstruct the digital twin of reconfigurable soft robots in the AR environment, allowing for continuous representation of their deformations. We identify three fundamental types of deformation patterns - stretching, bending, and twisting - and propose corresponding visualization patterns to represent these transformations accurately. Additionally, we employ a sensor fusion method to capture the soft robot's deformation as a parameterized curve, enabling more precise visualization in the AR environment. The proposed framework is implemented in the AR environment, providing immersive inspection and reconfigurable simulation for real-world soft robots, enhancing their adaptability and functionality.
+  In the rapidly evolving field of soft robotics, advancements in new materials, structural designs, and conceptual frameworks have propelled the rise of soft robot technology, particularly towards a highly versatile modular architecture with vast potential applications across various industries. However, one of the main challenges in this domain is the shape-morphing issue, as existing visualization and simulation tools struggle to adequately represent the complex and continuous deformation behaviors of soft robots. Furthermore, there is a distinct lack of intuitive, user-friendly platforms for visualizing and interactively controlling the shape-shifting capabilities of these robots. In response to these challenges, this paper introduces an innovative Digital Twin (DT) system specifically designed for reconfigurable soft robots, operating within an Augmented Reality (AR) environment. This system facilitates a more natural and accurate depiction of 3D soft deformations while providing an intuitive interface for simulation. We utilize a parameterized curve-driven method to dynamically adapt the DT in the AR space, ensuring smooth transitions between various 3D shape-morphing states. We identify three fundamental shape-morphing patterns—stretching, bending, and twisting—and create advanced visualization tools to precisely demonstrate these morphological changes. To enhance real-time representation of shape-morphing, we employ sensor fusion to detect and depict the soft robot's structural changes as parameterized curves. Our system is fully operational in an AR environment, empowering users to conduct immersive examinations and simulate reconfigurations of real-world soft robotic systems. 
 
   </div>
 
   
-  ![image](https://github.com/user-attachments/assets/9baa2638-1ac0-497f-b1d2-6ecedd739370)
+  ![image](<https://github.com/user-attachments/assets/9baa2638-1ac0-497f-b1d2-6ecedd739370>)
+
+  [Code](https://github.com/yuanzero/DT-Reconfigurable-Soft-Robot/tree/master)
+
+  [Paper: An Augmented Reality-enabled Digital Twin System for Reconfigurable Soft Robots: Visualization, Simulation, and Interaction](<https://www.sciencedirect.com/science/article/pii/S0166361525000508>)
 
 
 - **Three-levels Digital Twin Systems for Human-Robot Interaction (2022-present)**
