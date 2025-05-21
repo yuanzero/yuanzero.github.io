@@ -15,8 +15,6 @@ author_profile: true
   
   ![image](https://github.com/user-attachments/assets/3660a1a6-2579-4ff7-9b55-a6bba432673b)
 
-  [Poster](https://github.com/user-attachments/files/20364143/ICRA_liao_48x36.pdf)
-
   [Paper](<https://arxiv.org/abs/2505.05725>)
 
 - **Digital Twin Systems for Reconfigurable Soft Robots (2023-2024)**
