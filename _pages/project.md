@@ -11,6 +11,8 @@ author_profile: true
   Accurate estimation of fruit hardness is essential for automated classification and handling systems, particularly in determining fruit variety, assessing ripeness, and ensuring proper harvesting force. This study presents an innovative framework for quantitative hardness assessment utilizing vision-based tactile sensing, tailored explicitly for robotic applications in agriculture. The proposed methodology derives normal force estimation from a vision-based tactile sensor, and, based on the dynamics of this normal force, calculates the hardness. This approach offers a rapid, non-destructive evaluation through single-contact interaction. The integration of this framework into robotic systems enhances real-time adaptability of grasping forces, thereby reducing the likelihood of fruit damage. Moreover, the general applicability of this approach, through a universal criterion based on average normal force dynamics, ensures its effectiveness across a wide variety of fruit types and sizes. Extensive experimental validation conducted across different fruit types and ripeness-tracking studies demonstrates the efficacy and robustness of the framework, marking a significant advancement in the domain of automated fruit handling.
 
   </div>
+
+  
   ![image](https://github.com/user-attachments/assets/3660a1a6-2579-4ff7-9b55-a6bba432673b)
 
   [Poster](https://github.com/user-attachments/files/20364143/ICRA_liao_48x36.pdf)
