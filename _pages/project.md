@@ -24,8 +24,7 @@ author_profile: true
 
   </div>
 
-  
-  ![image](<https://github.com/user-attachments/assets/9baa2638-1ac0-497f-b1d2-6ecedd739370>)
+  ![image](https://github.com/user-attachments/assets/cf3e018d-424c-4e68-8caa-55c696a89710)
 
   [Code](https://github.com/yuanzero/DT-Reconfigurable-Soft-Robot/tree/master)
 
