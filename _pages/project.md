@@ -5,7 +5,7 @@ title: "Project"
 author_profile: true
 
 ---
-- **Quantitative Hardness Assessment with Vision-based Tactile Sensing for Fruit Classification and GraspingCCF None (2025)**
+- **Quantitative Hardness Assessment with Vision-based Tactile Sensing for Fruit Classification and Grasping (2025)**
 
 <div style="text-align: justify">
   Accurate estimation of fruit hardness is essential for automated classification and handling systems, particularly in determining fruit variety, assessing ripeness, and ensuring proper harvesting force. This study presents an innovative framework for quantitative hardness assessment utilizing vision-based tactile sensing, tailored explicitly for robotic applications in agriculture. The proposed methodology derives normal force estimation from a vision-based tactile sensor, and, based on the dynamics of this normal force, calculates the hardness. This approach offers a rapid, non-destructive evaluation through single-contact interaction. The integration of this framework into robotic systems enhances real-time adaptability of grasping forces, thereby reducing the likelihood of fruit damage. Moreover, the general applicability of this approach, through a universal criterion based on average normal force dynamics, ensures its effectiveness across a wide variety of fruit types and sizes. Extensive experimental validation conducted across different fruit types and ripeness-tracking studies demonstrates the efficacy and robustness of the framework, marking a significant advancement in the domain of automated fruit handling.
@@ -32,7 +32,7 @@ author_profile: true
   [Paper: An Augmented Reality-enabled Digital Twin System for Reconfigurable Soft Robots: Visualization, Simulation, and Interaction](<https://www.sciencedirect.com/science/article/pii/S0166361525000508>)
 
 
-- **Three-levels Digital Twin Systems for Human-Robot Interaction (2022-present)**
+- **Three-levels Digital Twin Systems for Human-Robot Interaction (2022-2023)**
 
  <div style="text-align: justify">
   This research focuses on the development of a novel Augmented Reality (AR)-based digital twin system for human-robot interaction in manufacturing settings, with the aim of improving efficiency, accuracy, and adaptability. A three-level approach to digital twin technology is introduced, comprising virtual twin, hybrid twin, and cognitive twin levels, each offering unique functionalities. An intuitive AR-based interface is created, enabling users to interact with the digital twin through natural gestures, thereby streamlining programming and control processes. A comprehensive human-centric user study is conducted to validate the efficacy of the proposed system in minimizing setup time, reducing errors, and enhancing overall productivity.
