@@ -110,7 +110,7 @@ redirect_from:
 ```
 Refereed Journal Papers:
 
-[1] Zhongyuan Liao, Chen J., Cai Y.*. “Reconfigurable Soft Robots based on Modular Design”. Computer-Aided Design and Applications, 20(6), 1141-1153, 2023.
+[1] Zhongyuan Liao, Wei, W., Zhang, L., Gao, Y., & Cai, Y. (2025). An augmented reality-enabled digital twin system for reconfigurable soft robots: Visualization, simulation and interaction. Computers in Industry, 168, 104285.
 [2] Zhongyuan Liao, Li T., Wang Y., Cai Y.*. “Soft Pneumatic Actuator Optimal Design Based on Isogeometric Analysis”. Manufacturing Letters, 35: 55-63, 2023. Presented at the 51st SME North American Manufacturing Research Conference, New Brunswick, New Jersey, USA, June 12-16, 2023. 
 [3] Zhongyuan Liao and Cai Y.*, “AR-enhanced digital twin for human-robot interaction in manufacturing systems”, Energy, Ecology and Environment, 2024.
 [4] Li, T., Zhongyuan Liao, Cai Y.*. “Physical Modeling for Digital Twin of Continuous Damping Control Damper”. Journal of Manufacturing Processes. vol. 99, pp. 96–104, 2023. Outstanding Paper Award of NAMRC51.
@@ -123,6 +123,7 @@ Refereed Journal Papers:
 [11] Y. Zheng, Y. Wang, X. Lu, Zhongyuan Liao, and J. Qu, “Evolutionary topology optimization for mechanical metamaterials with auxetic property”, International Journal of Mechanical Sciences, vol. 179, p. 105 638, Aug. 2020.
 [12] Zhongyuan Liao, Y. Wang, and S. Wang, “Graded-density Lattice Structure Optimization Design Based on Topology Optimization (in Chinese)”, Chinese Journal of Mechanical Engineering, vol. 55, no. 8, p. 65, 2019. 2021 Best Paper Award.
 [13] Zhongyuan Liao, Y. Zhang, Y. Wang, and W. Li, “A triple acceleration method for topology optimization”, Structural and Multidisciplinary Optimization, vol. 60, no. 2, pp. 727–744, Aug. 2019.
+[14] Zhongyuan Liao, Chen J., Cai Y.*. “Reconfigurable Soft Robots based on Modular Design”. Computer-Aided Design and Applications, 20(6), 1141-1153, 2023.
 
 Conference Proceedings:
 
@@ -132,6 +133,9 @@ Conference Proceedings:
 [4] Zhongyuan Liao, Cai, Y.*, "An Augmented Reality-Based Digital Twin System for Enhancing Human-Robot Interaction in Manufacturing", Oral presentation. 2023 Annual International Conference for Chinese Scholars in Industrial Engineering, Guangzhou, China, August 10-12, 2023.
 [5] Zhongyuan Liao, Wang, Y., "Multiple-accelerated isogeometric topology optimization method", Poster. Proceedings of Chinese Congress of Theoretical and Applied Mechanics, Hangzhou, China, Summer 2019.
 [6] Zhongyuan Liao, Wang, Y., "The topology optimization based on triple-accelerated method", Oral presentation. Proceedings of 2018 National Conference on Solid Mechanics, Harbin, China, Winter 2018.
+[7] Liao, Z. and Cai, Y.*, 2024, “Computer Vision-based Decision-making Framework for Reconfigurable Soft Robot Manipulation”, 51st International Conference on Computers and Industrial Engineering (CIE), Kensington Campus, UNSW Sydney, Australia, December 9-11.
+[8] Liao, Z., Du, Y., Duan, J., Liang, H., & Wang, M. Y. (2025). Quantitative Hardness Assessment with Vision-based Tactile Sensing for Fruit Classification and Grasping. Accepted to the Novel Approaches for Precision Agriculture and Forestry with Autonomous Robots IEEE ICRA Workshop - 2025.
+
 
 Thesis:
 
