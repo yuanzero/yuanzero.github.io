@@ -29,8 +29,7 @@ redirect_from:
 ## Professional Experience
 
 ### Hong Kong University of Science and Technology (09/2024 - now)
-- Hong Kong Center for Construction Robotics (HKCRC)
-- Postdoctoral Fellow
+- Postdoctoral Fellow in Hong Kong Center for Construction Robotics (HKCRC)
 - Supervisor: Prof. [Michael Yu WANG](https://seng.hkust.edu.hk/about/people/faculty/michael-yu-wang)
   
 ### North Carolina State University, Raleigh, USA
@@ -70,7 +69,7 @@ redirect_from:
 - School Scholarship (Triple) 2015–2018
 
 ## Skills
-- CAD/CAE, Manufacturing, Robotics, IoT, AR/VR, User-Centered Design and Coding.
+- CAD/CAE, Manufacturing, Robotics, IoT, AR/VR, User-Centered Design.
 
 <h3 align="left">Coding and Tools:</h3>
 <p align="left"> 
@@ -113,7 +112,7 @@ Refereed Journal Papers:
 [1] Zhongyuan Liao, Wei, W., Zhang, L., Gao, Y., & Cai, Y. (2025). An augmented reality-enabled digital twin system for reconfigurable soft robots: Visualization, simulation and interaction. Computers in Industry, 168, 104285.
 [2] Zhongyuan Liao, Li T., Wang Y., Cai Y.*. “Soft Pneumatic Actuator Optimal Design Based on Isogeometric Analysis”. Manufacturing Letters, 35: 55-63, 2023. Presented at the 51st SME North American Manufacturing Research Conference, New Brunswick, New Jersey, USA, June 12-16, 2023. 
 [3] Zhongyuan Liao and Cai Y.*, “AR-enhanced digital twin for human-robot interaction in manufacturing systems”, Energy, Ecology and Environment, 2024.
-[4] Li, T., Zhongyuan Liao, Cai Y.*. “Physical Modeling for Digital Twin of Continuous Damping Control Damper”. Journal of Manufacturing Processes. vol. 99, pp. 96–104, 2023. Outstanding Paper Award of NAMRC51.
+[4] Li, T., Zhongyuan Liao, Cai Y.*. “Physical Modeling for Digital Twin of Continuous Damping Control Damper”. Journal of Manufacturing Processes. vol.99, pp. 96–104, 2023. Outstanding Paper Award of NAMRC51.
 [5] Chen, J., Zhongyuan Liao, Cai Y.*. “Enhancing Size Perception with True-Size Viewing CAD plug-in and Cloud-enabled AR APP”. Computer-Aided Design and Applications, 20(6), 1128-1140, 2023.
 [6] Zheng Y., Xiang J., Zhongyuan Liao, Li P., Cai X., Chen Z., and Huang J., “Hierarchical topology optimization with varying microstructural aspect ratios”, Engineering Analysis with Boundary Elements, vol. 156, pp. 34–47, 2023.
 [7] Wei W., Zhang L., Zhongyuan Liao and Cai Y.*, "Aerosol Jet Printing of Advanced Capacitive Strain Gauge for Vibration Monitoring of Human Body", The International Journal of Advanced Manufacturing Technology, 2024.
@@ -134,14 +133,14 @@ Conference Proceedings:
 [5] Zhongyuan Liao, Wang, Y., "Multiple-accelerated isogeometric topology optimization method", Poster. Proceedings of Chinese Congress of Theoretical and Applied Mechanics, Hangzhou, China, Summer 2019.
 [6] Zhongyuan Liao, Wang, Y., "The topology optimization based on triple-accelerated method", Oral presentation. Proceedings of 2018 National Conference on Solid Mechanics, Harbin, China, Winter 2018.
 [7] Liao, Z. and Cai, Y.*, 2024, “Computer Vision-based Decision-making Framework for Reconfigurable Soft Robot Manipulation”, 51st International Conference on Computers and Industrial Engineering (CIE), Kensington Campus, UNSW Sydney, Australia, December 9-11.
-[8] Liao, Z., Du, Y., Duan, J., Liang, H., & Wang, M. Y. (2025). Quantitative Hardness Assessment with Vision-based Tactile Sensing for Fruit Classification and Grasping. Accepted to the Novel Approaches for Precision Agriculture and Forestry with Autonomous Robots IEEE ICRA Workshop - 2025.
+[8] Liao, Z., Du, Y., Duan, J., Liang, H., & Wang, M. Y. (2025). Quantitative Hardness Assessment with Vision-based Tactile Sensing for Fruit Classification and Grasping. Accepted to the Novel Approaches for Precision Agriculture and Forestry with Autonomous Robots IEEE ICRA Workshop, Atlanta, USA, May 2025.
 
 
 Thesis:
 
 [1] Zhongyuan Liao. AR-enhanced Digital Twin System for Reconfigurable Soft Robots. PhD Thesis. The Hong Kong University of Science and Technology.
-[2] Zhongyuan Liao. Research on Efficient Structure optimization Method based on Isogeometric Analysis. Master Thesis. South China University of Technology.
-[3] Zhongyuan Liao. Design of high-performance Variable density lattice Connecting rod Based on Topology Optimization. Bachelor Thesis. South China University of Technology.
+[2] Zhongyuan Liao. Research on an Efficient Structure optimization Method based on Isogeometric Analysis. Master Thesis. South China University of Technology.
+[3] Zhongyuan Liao. Design of high-performance variable-density lattice connecting rod based on Topology Optimization. Bachelor Thesis. South China University of Technology.
 
 Patents:
 
