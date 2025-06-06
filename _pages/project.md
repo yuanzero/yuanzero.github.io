@@ -17,6 +17,20 @@ author_profile: true
 
   [Paper](<https://arxiv.org/abs/2505.05725>)
 
+  
+
+- **Vision-based Tactile Sensor (2025)**
+
+<div style="text-align: justify">
+  As a key member in the development of the Vision-based Tactile Sensors, DM-Tac W and DM-Tac F, at [Daimon Robotics](https://www.dmrobot.com/en/), I was responsible for SDK development, algorithm optimization, and integrating the sensors into the gripper, completing various dexterous robot manipulation tasks.
+ </div>
+
+ 
+![image](https://github.com/user-attachments/assets/12d43909-cf20-4e0a-a7c8-4c88c70910ec)
+
+ 
+
+  
 - **Digital Twin Systems for Reconfigurable Soft Robots (2023-2024)**
 
 <div style="text-align: justify">
