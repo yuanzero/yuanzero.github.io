@@ -123,6 +123,7 @@ Refereed Journal Papers:
 [12] Zhongyuan Liao, Y. Wang, and S. Wang, “Graded-density Lattice Structure Optimization Design Based on Topology Optimization (in Chinese)”, Chinese Journal of Mechanical Engineering, vol. 55, no. 8, p. 65, 2019. 2021 Best Paper Award.
 [13] Zhongyuan Liao, Y. Zhang, Y. Wang, and W. Li, “A triple acceleration method for topology optimization”, Structural and Multidisciplinary Optimization, vol. 60, no. 2, pp. 727–744, Aug. 2019.
 [14] Zhongyuan Liao, Chen J., Cai Y.*. “Reconfigurable Soft Robots based on Modular Design”. Computer-Aided Design and Applications, 20(6), 1141-1153, 2023.
+[15] L. Zhang, Y. Bian, W. Wei, Z. Liao, M. Cang, A. Yang, H. Zhi, W. Zhang, M. Chen, H. Cui, Y. Cai, "Dendrite-Inspired and 3D Printed Multidirectional Sensing Piezoresistive Metamaterials," Advanced Functional Materials, 2025, 2508987.
 
 Conference Proceedings:
 
