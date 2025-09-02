@@ -132,18 +132,18 @@ Supervisor: Prof. <a href="http://www2.coe.pku.edu.cn/faculty/liuke/" target="_b
 
 <div class="cv-section">
 <div class="cv-title"><span class="icon">🔬</span>Research Interest</div>
-<span class="cv-skills">
-<span class="cv-skill-item">Robot Manipulation</span>
-<span class="cv-skill-item">Tactile Sensor</span>
-<span class="cv-skill-item">Embodied AI & Skill</span>
-<span class="cv-skill-item">Digital Twin</span>
-<span class="cv-skill-item">Reconfigurable Soft Robots</span>
-<span class="cv-skill-item">Topology/Shape Optimization</span>
-<span class="cv-skill-item">Metamaterial Design</span>
-<span class="cv-skill-item">Additive Manufacturing</span>
-<span class="cv-skill-item">AR/VR/MR</span>
-<span class="cv-skill-item">Human-Robot Interaction</span>
-</span>
+<ul style="margin-left:1.2em;">
+  <li>Robot Manipulation</li>
+  <li>Tactile Sensor</li>
+  <li>Embodied AI &amp; Skill</li>
+  <li>Digital Twin</li>
+  <li>Reconfigurable Soft Robots</li>
+  <li>Topology/Shape Optimization</li>
+  <li>Metamaterial Design</li>
+  <li>Additive Manufacturing</li>
+  <li>AR/VR/MR</li>
+  <li>Human-Robot Interaction</li>
+</ul>
 </div>
 
 <div class="cv-section">
@@ -172,7 +172,7 @@ Supervisor: Prof. <a href="http://www2.coe.pku.edu.cn/faculty/liuke/" target="_b
   <span class="cv-skill-item">User-Centered Design</span>
 </span>
 <div style="margin-top:0.5em;">
-  <b>Coding & Tools:</b><br>
+  <div style="font-weight:bold;font-size:1.1em;margin-top:1em;">Coding &amp; Tools</div>
   <span class="cv-skills">
     <span class="cv-skill-item"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="24"/> Arduino</span>
     <span class="cv-skill-item"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="24"/> ROS</span>
