@@ -201,7 +201,7 @@ Supervisor: Prof. <a href="http://www2.coe.pku.edu.cn/faculty/liuke/" target="_b
 <div class="cv-section">
 <div class="cv-title"><span class="icon">📝</span>Publication</div>
 
-#### Refereed Journal Papers
+<div style="font-weight:bold;font-size:1.1em;margin-top:1em;">Refereed Journal Papers</div>
 
 <ol>
   <li><b>Zhongyuan Liao</b>, Wei, W., Zhang, L., Gao, Y., &amp; Cai, Y. (2025). <i>An augmented reality-enabled digital twin system for reconfigurable soft robots: Visualization, simulation and interaction</i>. <b>Computers in Industry, 168</b>, 104285.</li>
@@ -223,7 +223,7 @@ Supervisor: Prof. <a href="http://www2.coe.pku.edu.cn/faculty/liuke/" target="_b
 
 <hr>
 
-#### Conference Proceedings
+<div style="font-weight:bold;font-size:1.1em;margin-top:1em;">Conference Proceedings</div>
 
 <ol>
   <li><b>Zhongyuan Liao</b>, Chen, J., Cai Y.* (2022). <i>Reconfigurable Soft Robots based on Modular Design</i>. In <b>Proceedings of the 19th annual International CAD Conference</b> (pp. 324-328), Beijing, China, July 11-13.</li>
@@ -238,7 +238,7 @@ Supervisor: Prof. <a href="http://www2.coe.pku.edu.cn/faculty/liuke/" target="_b
 
 <hr>
 
-#### Thesis
+<div style="font-weight:bold;font-size:1.1em;margin-top:1em;">Thesis</div>
 
 <ol>
   <li><b>Zhongyuan Liao</b>. <i>AR-enhanced Digital Twin System for Reconfigurable Soft Robots</i>. PhD Thesis, The Hong Kong University of Science and Technology.</li>
@@ -248,7 +248,7 @@ Supervisor: Prof. <a href="http://www2.coe.pku.edu.cn/faculty/liuke/" target="_b
 
 <hr>
 
-#### Patents
+<div style="font-weight:bold;font-size:1.1em;margin-top:1em;">Patents</div>
 
 <ol>
   <li>Wang Yingjun, <b>Zhongyuan Liao</b>. <i>A triple acceleration topology optimization method</i>. C.N. Patent: CN109840348B, issued in 2023.</li>
