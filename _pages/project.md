@@ -72,7 +72,7 @@ author_profile: true
 </div>
 
 <div class="project-card">
-  <div class="project-title">Design, Optimization, and Manufacturing Systems for Reconfigurable Modular Soft Robots <span class="project-badge">2021-2023</span></div>
+  <div class="project-title"><b>Design, Optimization, and Manufacturing Systems for Reconfigurable Modular Soft Robots</b> <span class="project-badge">2021-2023</span></div>
   <div style="text-align:justify;">
     This research involves designing soft robots using Computer-Aided Design (CAD) software, such as SolidWorks and Inventor. Soft robot performance is optimized using simulation software, including COMSOL and MATLAB. Additive manufacturing and molding technologies are employed to fabricate soft robots. Additionally, the connection mechanism is designed for the reconfigurable modular soft robots.
   </div>
@@ -83,7 +83,7 @@ author_profile: true
 </div>
 
 <div class="project-card">
-  <div class="project-title">Data-Driven Shape Optimization Design for Auxetics Using Isogeometric Analysis <span class="project-badge">2019-2021</span></div>
+  <div class="project-title"><b>Data-Driven Shape Optimization Design for Auxetics Using Isogeometric Analysis</b> <span class="project-badge">2019-2021</span></div>
   <div style="text-align:justify;">
     This project implements a back-propagation neural network (BPNN)-based design framework for petal-shaped auxetics using isogeometric analysis, and proposes a deep neural networks (DNN) framework for tetra-chiral auxetics shape optimization design. The highly nonlinear relation between the input geometry variables and the effective material properties is fitted by a data-driven method (i.e., BPNN, DNN), facilitated by the NURBS-based parametric modeling scheme with a small number of design variables. This enables an easy analytical sensitivity analysis, demonstrating high accuracy and efficiency. Optimal auxetic structures are produced using 3D printing and experimentally tested for their properties. The implementation is based on the collaboration between Matlab and TensorFlow.
   </div>
@@ -94,7 +94,7 @@ author_profile: true
 </div>
 
 <div class="project-card">
-  <div class="project-title">Multiple Accelerated Methods for Mesh-based and Isogeometric Topology Optimization <span class="project-badge">2018-2019</span></div>
+  <div class="project-title"><b>Multiple Accelerated Methods for Mesh-based and Isogeometric Topology Optimization</b> <span class="project-badge">2018-2019</span></div>
   <div style="text-align:justify;">
     This research proposes multilevel mesh, effective iterative methods, and local-update strategies to accelerate computing efficiency in topology optimization. For mesh-based topology optimization, the method projects density from coarse to fine meshes to accelerate convergence, adopts an initial-value-based preconditioned conjugate-gradient (PCG) method to solve the equations of Finite Element Analysis (FEA), and decreases the number of updated meshes according to their density. This results in a 35%-80% reduction in computational time compared to the classical TOP88 code. For isogeometric topology optimization, where control points are the design variables, the method applies *h*-refinement to subdivide the mesh, adopts a Multigrid conjugate gradient method (MGCG) to solve the equilibrium equation, and reduces control points according to their density. This successfully reduces 37%-93% of computational time compared to unaccelerated cases. The multiple accelerated methods perform better in large-scale cases and have general applicability for topology optimizations based on either meshes or control points.
   </div>
@@ -106,7 +106,7 @@ author_profile: true
 </div>
 
 <div class="project-card">
-  <div class="project-title">Graded-density Lattice Structure Optimization Design Based on Topology Optimization <span class="project-badge">2017-2018</span></div>
+  <div class="project-title"><b>Graded-density Lattice Structure Optimization Design Based on Topology Optimization</b> <span class="project-badge">2017-2018</span></div>
   <div style="text-align:justify;">
     This research proposes a multiscale topology optimization method based on the homogenization method, which generates graded-density lattice structures according to actual loads to achieve optimal performance. The method combines MATLAB with ANSYS, where optimization is performed in MATLAB and FEA computing and modeling are conducted in ANSYS. The lattice structure is rebuilt using Rhinoceros. Compared with the beam-model-based lattice optimization method from commercial software HyperWorks, the proposed method achieves better performance in mass reduction and stress distribution. The feasibility of manufacturing the lattice structure is demonstrated through 3D printing.
   </div>
