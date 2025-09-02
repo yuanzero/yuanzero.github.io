@@ -204,21 +204,21 @@ Supervisor: Prof. <a href="http://www2.coe.pku.edu.cn/faculty/liuke/" target="_b
 <div style="font-weight:bold;font-size:1.1em;margin-top:1em;">Refereed Journal Papers</div>
 
 <ol>
+  <li>L. Zhang, Y. Bian, W. Wei, <b>Z. Liao</b>, M. Cang, A. Yang, H. Zhi, W. Zhang, M. Chen, H. Cui, Y. Cai. (2025). <i>Dendrite-Inspired and 3D Printed Multidirectional Sensing Piezoresistive Metamaterials</i>. <b>Advanced Functional Materials</b>, 2508987.</li>
   <li><b>Zhongyuan Liao</b>, Wei, W., Zhang, L., Gao, Y., &amp; Cai, Y. (2025). <i>An augmented reality-enabled digital twin system for reconfigurable soft robots: Visualization, simulation and interaction</i>. <b>Computers in Industry, 168</b>, 104285.</li>
-  <li><b>Zhongyuan Liao</b>, Li T., Wang Y., Cai Y.* (2023). <i>Soft Pneumatic Actuator Optimal Design Based on Isogeometric Analysis</i>. <b>Manufacturing Letters, 35</b>, 55-63. <span class="cv-badge">Presented at the 51st SME North American Manufacturing Research Conference, New Brunswick, New Jersey, USA, June 12-16, 2023.</span></li>
+  <li>Wei W., Zhang L., <b>Zhongyuan Liao</b> and Cai Y.* (2024). <i>Aerosol Jet Printing of Advanced Capacitive Strain Gauge for Vibration Monitoring of Human Body</i>. <b>The International Journal of Advanced Manufacturing Technology</b>.</li>
   <li><b>Zhongyuan Liao</b> and Cai Y.* (2024). <i>AR-enhanced digital twin for human-robot interaction in manufacturing systems</i>. <b>Energy, Ecology and Environment</b>.</li>
+  <li><b>Zhongyuan Liao</b>, Li T., Wang Y., Cai Y.* (2023). <i>Soft Pneumatic Actuator Optimal Design Based on Isogeometric Analysis</i>. <b>Manufacturing Letters, 35</b>, 55-63. <span class="cv-badge">Presented at the 51st SME North American Manufacturing Research Conference, New Brunswick, New Jersey, USA, June 12-16, 2023.</span></li>
   <li>Li, T., <b>Zhongyuan Liao</b>, Cai Y.* (2023). <i>Physical Modeling for Digital Twin of Continuous Damping Control Damper</i>. <b>Journal of Manufacturing Processes, 99</b>, 96–104. <span class="cv-badge">Outstanding Paper Award of NAMRC51</span></li>
   <li>Chen, J., <b>Zhongyuan Liao</b>, Cai Y.* (2023). <i>Enhancing Size Perception with True-Size Viewing CAD plug-in and Cloud-enabled AR APP</i>. <b>Computer-Aided Design and Applications, 20(6)</b>, 1128-1140.</li>
   <li>Zheng Y., Xiang J., <b>Zhongyuan Liao</b>, Li P., Cai X., Chen Z., &amp; Huang J. (2023). <i>Hierarchical topology optimization with varying microstructural aspect ratios</i>. <b>Engineering Analysis with Boundary Elements, 156</b>, 34–47.</li>
-  <li>Wei W., Zhang L., <b>Zhongyuan Liao</b> and Cai Y.* (2024). <i>Aerosol Jet Printing of Advanced Capacitive Strain Gauge for Vibration Monitoring of Human Body</i>. <b>The International Journal of Advanced Manufacturing Technology</b>.</li>
+  <li><b>Zhongyuan Liao</b>, Chen J., Cai Y.* (2023). <i>Reconfigurable Soft Robots based on Modular Design</i>. <b>Computer-Aided Design and Applications, 20(6)</b>, 1141-1153.</li>
   <li><b>Zhongyuan Liao</b>, Y. Wang, L. Gao, &amp; Z. Wang. (2022). <i>Deep-learning-based isogeometric inverse design for tetra-chiral auxetics</i>. <b>Composite Structures, 280</b>, 114808.</li>
   <li>Y. Wang, <b>Zhongyuan Liao</b>, S. Shi, Z. Wang, &amp; L. Hien Poh. (2020). <i>Data-Driven Structural Design Optimization for Petal-Shaped Auxetics Using Isogeometric Analysis</i>. <b>Computer Modeling in Engineering &amp; Sciences, 122(2)</b>, 433–458. <span class="cv-badge">2023 Best Paper Award</span></li>
   <li>Y. Wang, <b>Zhongyuan Liao</b>, M. Ye, Y. Zhang, W. Li, &amp; Z. Xia. (2020). <i>An efficient isogeometric topology optimization using multilevel mesh, MGCG and local-update strategy</i>. <b>Advances in Engineering Software, 139</b>, 102733. <span class="cv-badge">ESI Highly Cited Paper</span></li>
   <li>Y. Zheng, Y. Wang, X. Lu, <b>Zhongyuan Liao</b>, &amp; J. Qu. (2020). <i>Evolutionary topology optimization for mechanical metamaterials with auxetic property</i>. <b>International Journal of Mechanical Sciences, 179</b>, 105638.</li>
   <li><b>Zhongyuan Liao</b>, Y. Wang, &amp; S. Wang. (2019). <i>Graded-density Lattice Structure Optimization Design Based on Topology Optimization</i> (in Chinese). <b>Chinese Journal of Mechanical Engineering, 55(8)</b>, 65. <span class="cv-badge">2021 Best Paper Award</span></li>
   <li><b>Zhongyuan Liao</b>, Y. Zhang, Y. Wang, &amp; W. Li. (2019). <i>A triple acceleration method for topology optimization</i>. <b>Structural and Multidisciplinary Optimization, 60(2)</b>, 727–744.</li>
-  <li><b>Zhongyuan Liao</b>, Chen J., Cai Y.* (2023). <i>Reconfigurable Soft Robots based on Modular Design</i>. <b>Computer-Aided Design and Applications, 20(6)</b>, 1141-1153.</li>
-  <li>L. Zhang, Y. Bian, W. Wei, <b>Z. Liao</b>, M. Cang, A. Yang, H. Zhi, W. Zhang, M. Chen, H. Cui, Y. Cai. (2025). <i>Dendrite-Inspired and 3D Printed Multidirectional Sensing Piezoresistive Metamaterials</i>. <b>Advanced Functional Materials</b>, 2508987.</li>
 </ol>
 
 <hr>
@@ -226,14 +226,14 @@ Supervisor: Prof. <a href="http://www2.coe.pku.edu.cn/faculty/liuke/" target="_b
 <div style="font-weight:bold;font-size:1.1em;margin-top:1em;">Conference Proceedings</div>
 
 <ol>
-  <li><b>Zhongyuan Liao</b>, Chen, J., Cai Y.* (2022). <i>Reconfigurable Soft Robots based on Modular Design</i>. In <b>Proceedings of the 19th annual International CAD Conference</b> (pp. 324-328), Beijing, China, July 11-13.</li>
+  <li>Liao, Z., Du, Y., Duan, J., Liang, H., &amp; Wang, M. Y. (2025). <i>Quantitative Hardness Assessment with Vision-based Tactile Sensing for Fruit Classification and Grasping</i>. Accepted to <b>Novel Approaches for Precision Agriculture and Forestry with Autonomous Robots IEEE ICRA Workshop</b>, Atlanta, USA, May.</li>
   <li><b>Zhongyuan Liao</b>, Wei W., Zhang L., Cai Y.* (2024). <i>Sensor Fusion-based Parameterized Curve-driven Modeling for Digital Twin of Reconfigurable Soft Robot</i>. In <b>Proceedings of The 6th IEEE/IFToMM International Conference on Reconfigurable Mechanisms and Robots</b>, Chicago, USA, June.</li>
-  <li>Wang Y., <b>Zhongyuan Liao</b>, Zhang Y. (2019). <i>A New High-efficiency Isogeometric Topology Optimization</i>. In <b>The 13th World Congress of Structural and Multidisciplinary Optimization</b>, Beijing, China, May 19-24.</li>
+  <li>Liao, Z. and Cai, Y.* (2024). <i>Computer Vision-based Decision-making Framework for Reconfigurable Soft Robot Manipulation</i>. In <b>51st International Conference on Computers and Industrial Engineering (CIE)</b>, Kensington Campus, UNSW Sydney, Australia, December 9-11.</li>
   <li><b>Zhongyuan Liao</b>, Cai, Y.* (2023). <i>An Augmented Reality-Based Digital Twin System for Enhancing Human-Robot Interaction in Manufacturing</i>. Oral presentation at <b>2023 Annual International Conference for Chinese Scholars in Industrial Engineering</b>, Guangzhou, China, August 10-12.</li>
+  <li><b>Zhongyuan Liao</b>, Chen, J., Cai Y.* (2022). <i>Reconfigurable Soft Robots based on Modular Design</i>. In <b>Proceedings of the 19th annual International CAD Conference</b> (pp. 324-328), Beijing, China, July 11-13.</li>
+  <li>Wang Y., <b>Zhongyuan Liao</b>, Zhang Y. (2019). <i>A New High-efficiency Isogeometric Topology Optimization</i>. In <b>The 13th World Congress of Structural and Multidisciplinary Optimization</b>, Beijing, China, May 19-24.</li>
   <li><b>Zhongyuan Liao</b>, Wang, Y. (2019). <i>Multiple-accelerated isogeometric topology optimization method</i>. Poster at <b>Chinese Congress of Theoretical and Applied Mechanics</b>, Hangzhou, China, Summer.</li>
   <li><b>Zhongyuan Liao</b>, Wang, Y. (2018). <i>The topology optimization based on triple-accelerated method</i>. Oral presentation at <b>2018 National Conference on Solid Mechanics</b>, Harbin, China, Winter.</li>
-  <li>Liao, Z. and Cai, Y.* (2024). <i>Computer Vision-based Decision-making Framework for Reconfigurable Soft Robot Manipulation</i>. In <b>51st International Conference on Computers and Industrial Engineering (CIE)</b>, Kensington Campus, UNSW Sydney, Australia, December 9-11.</li>
-  <li>Liao, Z., Du, Y., Duan, J., Liang, H., &amp; Wang, M. Y. (2025). <i>Quantitative Hardness Assessment with Vision-based Tactile Sensing for Fruit Classification and Grasping</i>. Accepted to <b>Novel Approaches for Precision Agriculture and Forestry with Autonomous Robots IEEE ICRA Workshop</b>, Atlanta, USA, May.</li>
 </ol>
 
 <hr>
