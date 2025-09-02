@@ -9,89 +9,174 @@ redirect_from:
 
 {% include base_path %}
 
+<style>
+.cv-section {
+  margin-bottom: 2.5em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #e0e0e0;
+}
+.cv-title {
+  font-size: 1.3em;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+  display: flex;
+  align-items: center;
+}
+.cv-title .icon {
+  margin-right: 0.5em;
+}
+.cv-list {
+  margin-left: 1.2em;
+}
+.cv-highlight {
+  color: #1976d2;
+  font-weight: bold;
+}
+.cv-skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.2em 2em;
+  margin-bottom: 1em;
+}
+.cv-skill-item {
+  min-width: 120px;
+  font-size: 1em;
+}
+.cv-badge {
+  background: #f5f5f5;
+  border-radius: 6px;
+  padding: 0.2em 0.7em;
+  margin-right: 0.5em;
+  font-size: 0.95em;
+}
+</style>
 
 ## Education
 ### Hong Kong University of Science and Technology (09/2021 - 08/2024)
-- Academy of Interdisciplinary Studies (AIS)
-- Ph.D. in IIP (Smart Manufacturing)
-- Supervisor: Prof. [Yi Cai](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/CAI-Yi/yicai) and [Mingming Fan](https://www.mingmingfan.com/)
+<div class="cv-section">
+<div class="cv-title"><span class="icon">🎓</span>Education</div>
+<span class="cv-highlight">Hong Kong University of Science and Technology</span> <span class="cv-badge">09/2021 - 08/2024</span><br>
+Academy of Interdisciplinary Studies (AIS)<br>
+Ph.D. in IIP (Smart Manufacturing)<br>
+Supervisor: Prof. Yi Cai<a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/CAI-Yi/yicai" style="display:none">link</a>, Mingming Fan<a href="https://www.mingmingfan.com/" style="display:none">link</a>
 
 ### South China University of Technology (09/2018 - 06/2021)
-- School of Mechanical and Automotive Engineering
-- M.S. in Mechanical Engineering
-- Supervisor: Prof. [Yingjun Wang](https://www.yingjun.group/75)
+<span class="cv-highlight">South China University of Technology</span> <span class="cv-badge">09/2018 - 06/2021</span><br>
+School of Mechanical and Automotive Engineering<br>
+M.S. in Mechanical Engineering<br>
+Supervisor: Prof. Yingjun Wang<a href="https://structoptlab.github.io/" style="display:none">link</a>
 
 ### South China University of Technology (09/2014 - 06/2018)
-- School of Mechanical and Automotive Engineering
-- B.S. in Mechanical Engineering
-- Supervisor: Prof. Zhijia Xu
+<span class="cv-highlight">South China University of Technology</span> <span class="cv-badge">09/2014 - 06/2018</span><br>
+School of Mechanical and Automotive Engineering<br>
+B.S. in Mechanical Engineering<br>
+Supervisor: Prof. Zhijia Xu
+</div>
 
 ## Professional Experience
+<div class="cv-section">
+<div class="cv-title"><span class="icon">💼</span>Professional Experience</div>
 
 ### Hong Kong University of Science and Technology (09/2024 - now)
-- Postdoctoral Fellow in Hong Kong Center for Construction Robotics (HKCRC)
-- Supervisor: Prof. [Michael Yu WANG](https://seng.hkust.edu.hk/about/people/faculty/michael-yu-wang)
+<span class="cv-highlight">Hong Kong University of Science and Technology</span> <span class="cv-badge">09/2024 - now</span><br>
+Postdoctoral Fellow, Hong Kong Center for Construction Robotics (HKCRC)<br>
+Supervisor: Prof. Michael Yu WANG<a href="https://seng.hkust.edu.hk/about/people/faculty/michael-yu-wang" style="display:none">link</a>
   
 ### North Carolina State University, Raleigh, USA
-- Visiting Scholar in the Department of Industrial and Systems Engineering, 2024
-- Supervisor: Prof. [Yuan-Shin Lee](https://ise.ncsu.edu/people/yslee/)
+<span class="cv-highlight">North Carolina State University, USA</span> <span class="cv-badge">2024</span><br>
+Visiting Scholar, Dept. of Industrial and Systems Engineering<br>
+Supervisor: Prof. Yuan-Shin Lee<a href="https://ise.ncsu.edu/people/yslee/" style="display:none">link</a>
 
 ### Peking University, Beijing, China
-- Visiting Student in College of Engineering, 2024
-- Supervisor: Prof. [Ke Liu](http://www2.coe.pku.edu.cn/faculty/liuke/)
+<span class="cv-highlight">Peking University, China</span> <span class="cv-badge">2024</span><br>
+Visiting Student, College of Engineering<br>
+Supervisor: Prof. Ke Liu<a href="http://www2.coe.pku.edu.cn/faculty/liuke/" style="display:none">link</a>
+</div>
 
 ## Internship
-- Daimon Robotics Co. Ltd, Tactile Sensor Algorithm Engineer, 2024-2025
-- ZWCAD Co. Ltd, Graphic Algorithm Engineer, 2021
-- Guangzhou Tongda Auto Electric Co. LTD, Mechanical Structure Engineer, 2017
+<div class="cv-section">
+<div class="cv-title"><span class="icon">🛠️</span>Internship</div>
+<ul class="cv-list">
+  <li><b>Daimon Robotics Co. Ltd</b>, Tactile Sensor Algorithm Engineer <span class="cv-badge">2024-2025</span></li>
+  <li><b>ZWCAD Co. Ltd</b>, Graphic Algorithm Engineer <span class="cv-badge">2021</span></li>
+  <li><b>Guangzhou Tongda Auto Electric Co. LTD</b>, Mechanical Structure Engineer <span class="cv-badge">2017</span></li>
+</ul>
+</div>
 
 ## Research Interest
-- Robot Manipulation
-- Tactile Sensor
-- Embodied AI & Skill
-- Digital Twin
-- Reconfigurable Soft Robots
-- Topology/Shape Optimization
-- Metamaterial Design
-- Advanced Additive Manufacturing Techniques
-- AR/VR/MR
-- Human-Robot Interaction
+<div class="cv-section">
+<div class="cv-title"><span class="icon">🔬</span>Research Interest</div>
+<span class="cv-skills">
+<span class="cv-skill-item">Robot Manipulation</span>
+<span class="cv-skill-item">Tactile Sensor</span>
+<span class="cv-skill-item">Embodied AI & Skill</span>
+<span class="cv-skill-item">Digital Twin</span>
+<span class="cv-skill-item">Reconfigurable Soft Robots</span>
+<span class="cv-skill-item">Topology/Shape Optimization</span>
+<span class="cv-skill-item">Metamaterial Design</span>
+<span class="cv-skill-item">Additive Manufacturing</span>
+<span class="cv-skill-item">AR/VR/MR</span>
+<span class="cv-skill-item">Human-Robot Interaction</span>
+</span>
+</div>
 
 ## Honors and Awards
-- Outstanding Paper Award of NAMRC51 2023
-- CMES 2023 Best Paper Award
-- National Scholarship (Twice) 2019, 2020
-- HKUST Overseas Research Award 2024
-- Outstanding Graduate Student of Guangdong Province 2021
-- HKUST Postgraduate Scholarship 2021-2024
-- Meritorious Winner of COMAP’s Mathematical Contest in Modeling (MCM) 2017
-- First Prize Winner in Guangdong Province of CUMCM (China Mathematical Contest in Modeling) 2016
-- School Scholarship (Triple) 2015–2018
+<div class="cv-section">
+<div class="cv-title"><span class="icon">🏆</span>Honors and Awards</div>
+<ul class="cv-list">
+  <li>Outstanding Paper Award of NAMRC51 <span class="cv-badge">2023</span></li>
+  <li>CMES Best Paper Award <span class="cv-badge">2023</span></li>
+  <li>National Scholarship (Twice) <span class="cv-badge">2019, 2020</span></li>
+  <li>HKUST Overseas Research Award <span class="cv-badge">2024</span></li>
+  <li>Outstanding Graduate Student of Guangdong Province <span class="cv-badge">2021</span></li>
+  <li>HKUST Postgraduate Scholarship <span class="cv-badge">2021-2024</span></li>
+  <li>Meritorious Winner of COMAP’s MCM <span class="cv-badge">2017</span></li>
+  <li>First Prize Winner in Guangdong Province of CUMCM <span class="cv-badge">2016</span></li>
+  <li>School Scholarship (Triple) <span class="cv-badge">2015–2018</span></li>
+</ul>
+</div>
 
 ## Skills
-- CAD/CAE, Manufacturing, Robotics, IoT, AR/VR, User-Centered Design.
+<div class="cv-section">
+<div class="cv-title"><span class="icon">🧰</span>Skills</div>
+<span class="cv-skills">
+  <span class="cv-skill-item">CAD/CAE</span>
+  <span class="cv-skill-item">Manufacturing</span>
+  <span class="cv-skill-item">Robotics</span>
+  <span class="cv-skill-item">IoT</span>
+  <span class="cv-skill-item">AR/VR</span>
+  <span class="cv-skill-item">User-Centered Design</span>
+</span>
+<div style="margin-top:0.5em;">
+  <b>Coding & Tools:</b><br>
+  <span class="cv-skills">
+    <span class="cv-skill-item"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="24"/> Arduino</span>
+    <span class="cv-skill-item"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="24"/> ROS</span>
+    <span class="cv-skill-item"><img src="https://img.icons8.com/color/452/solidworks.png" width="24"/> SolidWorks</span>
+    <span class="cv-skill-item"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="24"/> C++</span>
+    <span class="cv-skill-item"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24"/> Python</span>
+    <span class="cv-skill-item"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="24"/> PyTorch</span>
+    <span class="cv-skill-item"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="24"/> TensorFlow</span>
+    <span class="cv-skill-item"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="24"/> Matlab</span>
+    <span class="cv-skill-item"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="24"/> Unity</span>
+    <!-- 你可以继续补充其它工具 -->
+  </span>
+</div>
+</div>
 
 <h3 align="left">Coding and Tools:</h3>
-<p align="left"> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> 
-</a> <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ros" width="40" height="40"/> 
-</a> 
-  <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/452/solidworks.png" alt="solidworks" width="40" height="40"/> 
-  </a> 
- <a href="https://www.ansys.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/user-attachments/assets/3dc5f520-b310-4c11-820e-9ec5e131255e" alt="ansys" width="40" height="40"/> 
-</a>
-  <a href="https://www.altair.com/hyperworks/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/user-attachments/assets/aa6b309e-a993-4529-83fa-b6d64068fc80" alt="hyperworks" width="40" height="40"/> 
-  </a> 
-  <a href="https://ultimaker.com/software/ultimaker-cura" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/user-attachments/assets/87e98d4f-8cc3-4bcd-a28c-a937ac0435ef" alt="cura" width="40" height="40"/> 
-  </a>   
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-</p>
+<div class="cv-section">
+<div class="cv-title"><span class="icon">📚</span>Teaching</div>
+<ul class="cv-list">
+  <li><b>Teaching Assistant</b> at HKUST(GZ) <span class="cv-badge">Spring 2023</span><br>Cross-disciplinary Research Methods I (UCMP 6010)</li>
+  <li><b>Teaching Assistant</b> at HKUST(GZ) <span class="cv-badge">Fall 2022</span><br>Design for Additive Manufacturing (SMMG 6000A)</li>
+  <li><b>Teaching Assistant</b> at SCUT <span class="cv-badge">Spring 2019</span><br>Fluid Mechanics</li>
+</ul>
+</div>
+
+<div class="cv-section">
+<div class="cv-title"><span class="icon">📝</span>Publication</div>
+
 
 ## Teaching
 
