@@ -15,15 +15,21 @@ author_profile: true
   background: #fafbfc;
   box-shadow: 0 2px 8px 0 rgba(0,0,0,0.03);
 }
-  font-size: 1.2em;
-  font-weight: bold;
+  font-size: 1.45em;
+  font-weight: 900;
+  color: #1a237e;
+  margin-bottom: 0.5em;
+  margin-top: 0.1em;
+  line-height: 1.35;
+  letter-spacing: 0.01em;
+  display: block;
 }
 /* ...existing style code... */
 </style>
 
 <div class="project-card">
-  <div class="project-title">Quantitative Hardness Assessment with Vision-based Tactile Sensing for Fruit Classification and Grasping <span class="project-badge">2025</span></div>
-  <div style="text-align:justify;">
+  <div class="project-title"><b>Quantitative Hardness Assessment with Vision-based Tactile Sensing for Fruit Classification and Grasping</b> <span class="project-badge">2025</span></div>
+  <div style="text-align:justify; margin-top:0.5em;">
     Accurate estimation of fruit hardness is essential for automated classification and handling systems, particularly in determining fruit variety, assessing ripeness, and ensuring proper harvesting force. This study presents an innovative framework for quantitative hardness assessment utilizing vision-based tactile sensing, tailored explicitly for robotic applications in agriculture. The proposed methodology derives normal force estimation from a vision-based tactile sensor, and, based on the dynamics of this normal force, calculates the hardness. This approach offers a rapid, non-destructive evaluation through single-contact interaction. The integration of this framework into robotic systems enhances the real-time adaptability of grasping forces, thereby reducing the likelihood of fruit damage. Moreover, the general applicability of this approach, through a universal criterion based on average normal force dynamics, ensures its effectiveness across a wide variety of fruit types and sizes. Extensive experimental validation conducted across different fruit types and ripeness-tracking studies demonstrates the efficacy and robustness of the framework, marking a significant advancement in the domain of automated fruit handling.
   </div>
   <img class="project-img" src="https://github.com/user-attachments/assets/3660a1a6-2579-4ff7-9b55-a6bba432673b" alt="fruit hardness" />
@@ -33,8 +39,8 @@ author_profile: true
 </div>
 
 <div class="project-card">
-  <div class="project-title">Vision-based Tactile Sensor <span class="project-badge">2025</span></div>
-  <div style="text-align:justify;">
+  <div class="project-title"><b>Vision-based Tactile Sensor</b> <span class="project-badge">2025</span></div>
+  <div style="text-align:justify; margin-top:0.5em;">
     As a key member in the development of the Vision-based Tactile Sensors, DM-Tac W and DM-Tac F, at <a href="https://www.dmrobot.com/en/" target="_blank">Daimon Robotics</a>, I was responsible for SDK development, algorithm optimization, and integrating the sensors into the gripper, completing various dexterous robot manipulation tasks.
   </div>
   <img class="project-img" src="https://github.com/user-attachments/assets/12d43909-cf20-4e0a-a7c8-4c88c70910ec" alt="tactile sensor" />
@@ -42,8 +48,8 @@ author_profile: true
 
 
 <div class="project-card">
-  <div class="project-title">Digital Twin Systems for Reconfigurable Soft Robots <span class="project-badge">2023-2024</span></div>
-  <div style="text-align:justify;">
+  <div class="project-title"><b>Digital Twin Systems for Reconfigurable Soft Robots</b> <span class="project-badge">2023-2024</span></div>
+  <div style="text-align:justify; margin-top:0.5em;">
     In the rapidly evolving field of soft robotics, advancements in new materials, structural designs, and conceptual frameworks have propelled the rise of soft robot technology, particularly towards a highly versatile modular architecture with vast potential applications across various industries. However, one of the main challenges in this domain is the shape-morphing issue, as existing visualization and simulation tools struggle to adequately represent the complex and continuous deformation behaviors of soft robots. Furthermore, there is a distinct lack of intuitive, user-friendly platforms for visualizing and interactively controlling the shape-shifting capabilities of these robots. In response to these challenges, this paper introduces an innovative Digital Twin (DT) system specifically designed for reconfigurable soft robots, operating within an Augmented Reality (AR) environment. This system facilitates a more natural and accurate depiction of 3D soft deformations while providing an intuitive interface for simulation. We utilize a parameterized curve-driven method to dynamically adapt the DT in the AR space, ensuring smooth transitions between various 3D shape-morphing states. We identify three fundamental shape-morphing patterns—stretching, bending, and twisting—and create advanced visualization tools to precisely demonstrate these morphological changes. To enhance real-time representation of shape-morphing, we employ sensor fusion to detect and depict the soft robot's structural changes as parameterized curves. Our system is fully operational in an AR environment, empowering users to conduct immersive examinations and simulate reconfigurations of real-world soft robotic systems.
   </div>
   <img class="project-img" src="https://github.com/user-attachments/assets/cf3e018d-424c-4e68-8caa-55c696a89710" alt="digital twin" />
@@ -54,8 +60,8 @@ author_profile: true
 </div>
 
 <div class="project-card">
-  <div class="project-title">Three-levels Digital Twin Systems for Human-Robot Interaction <span class="project-badge">2022-2023</span></div>
-  <div style="text-align:justify;">
+  <div class="project-title"><b>Three-levels Digital Twin Systems for Human-Robot Interaction</b> <span class="project-badge">2022-2023</span></div>
+  <div style="text-align:justify; margin-top:0.5em;">
     This research focuses on the development of a novel Augmented Reality (AR)-based digital twin system for human-robot interaction in manufacturing settings, with the aim of improving efficiency, accuracy, and adaptability. A three-level approach to digital twin technology is introduced, comprising virtual twin, hybrid twin, and cognitive twin levels, each offering unique functionalities. An intuitive AR-based interface is created, enabling users to interact with the digital twin through natural gestures, thereby streamlining programming and control processes. A comprehensive human-centric user study is conducted to validate the efficacy of the proposed system in minimizing setup time, reducing errors, and enhancing overall productivity.
   </div>
   <div class="project-links">
