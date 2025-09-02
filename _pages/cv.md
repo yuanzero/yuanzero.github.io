@@ -50,6 +50,47 @@ redirect_from:
   font-size: 0.95em;
 }
 </style>
+<style>
+.cv-section {
+  margin-bottom: 2.5em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #e0e0e0;
+}
+.cv-title {
+  font-size: 1.3em;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+  display: flex;
+  align-items: center;
+}
+.cv-title .icon {
+  margin-right: 0.5em;
+}
+.cv-list {
+  margin-left: 1.2em;
+}
+.cv-highlight {
+  color: #1976d2;
+  font-weight: bold;
+}
+.cv-skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.2em 2em;
+  margin-bottom: 1em;
+}
+.cv-skill-item {
+  min-width: 120px;
+  font-size: 1em;
+}
+.cv-badge {
+  background: #f5f5f5;
+  border-radius: 6px;
+  padding: 0.2em 0.7em;
+  margin-right: 0.5em;
+  font-size: 0.95em;
+}
+</style>
 
 ## Education
 ### Hong Kong University of Science and Technology (09/2021 - 08/2024)
@@ -72,8 +113,15 @@ School of Mechanical and Automotive Engineering<br>
 B.S. in Mechanical Engineering<br>
 Supervisor: Prof. Zhijia Xu
 </div>
+<span class="cv-highlight">South China University of Technology</span> <span class="cv-badge">09/2014 - 06/2018</span><br>
+School of Mechanical and Automotive Engineering<br>
+B.S. in Mechanical Engineering<br>
+Supervisor: Prof. Zhijia Xu
+</div>
 
 ## Professional Experience
+<div class="cv-section">
+<div class="cv-title"><span class="icon">💼</span>Professional Experience</div>
 <div class="cv-section">
 <div class="cv-title"><span class="icon">💼</span>Professional Experience</div>
 
@@ -102,8 +150,31 @@ Supervisor: Prof. Ke Liu<a href="http://www2.coe.pku.edu.cn/faculty/liuke/" styl
   <li><b>Guangzhou Tongda Auto Electric Co. LTD</b>, Mechanical Structure Engineer <span class="cv-badge">2017</span></li>
 </ul>
 </div>
+<div class="cv-section">
+<div class="cv-title"><span class="icon">🛠️</span>Internship</div>
+<ul class="cv-list">
+  <li><b>Daimon Robotics Co. Ltd</b>, Tactile Sensor Algorithm Engineer <span class="cv-badge">2024-2025</span></li>
+  <li><b>ZWCAD Co. Ltd</b>, Graphic Algorithm Engineer <span class="cv-badge">2021</span></li>
+  <li><b>Guangzhou Tongda Auto Electric Co. LTD</b>, Mechanical Structure Engineer <span class="cv-badge">2017</span></li>
+</ul>
+</div>
 
 ## Research Interest
+<div class="cv-section">
+<div class="cv-title"><span class="icon">🔬</span>Research Interest</div>
+<span class="cv-skills">
+<span class="cv-skill-item">Robot Manipulation</span>
+<span class="cv-skill-item">Tactile Sensor</span>
+<span class="cv-skill-item">Embodied AI & Skill</span>
+<span class="cv-skill-item">Digital Twin</span>
+<span class="cv-skill-item">Reconfigurable Soft Robots</span>
+<span class="cv-skill-item">Topology/Shape Optimization</span>
+<span class="cv-skill-item">Metamaterial Design</span>
+<span class="cv-skill-item">Additive Manufacturing</span>
+<span class="cv-skill-item">AR/VR/MR</span>
+<span class="cv-skill-item">Human-Robot Interaction</span>
+</span>
+</div>
 <div class="cv-section">
 <div class="cv-title"><span class="icon">🔬</span>Research Interest</div>
 <span class="cv-skills">
@@ -135,8 +206,48 @@ Supervisor: Prof. Ke Liu<a href="http://www2.coe.pku.edu.cn/faculty/liuke/" styl
   <li>School Scholarship (Triple) <span class="cv-badge">2015–2018</span></li>
 </ul>
 </div>
+<div class="cv-section">
+<div class="cv-title"><span class="icon">🏆</span>Honors and Awards</div>
+<ul class="cv-list">
+  <li>Outstanding Paper Award of NAMRC51 <span class="cv-badge">2023</span></li>
+  <li>CMES Best Paper Award <span class="cv-badge">2023</span></li>
+  <li>National Scholarship (Twice) <span class="cv-badge">2019, 2020</span></li>
+  <li>HKUST Overseas Research Award <span class="cv-badge">2024</span></li>
+  <li>Outstanding Graduate Student of Guangdong Province <span class="cv-badge">2021</span></li>
+  <li>HKUST Postgraduate Scholarship <span class="cv-badge">2021-2024</span></li>
+  <li>Meritorious Winner of COMAP’s MCM <span class="cv-badge">2017</span></li>
+  <li>First Prize Winner in Guangdong Province of CUMCM <span class="cv-badge">2016</span></li>
+  <li>School Scholarship (Triple) <span class="cv-badge">2015–2018</span></li>
+</ul>
+</div>
 
 ## Skills
+<div class="cv-section">
+<div class="cv-title"><span class="icon">🧰</span>Skills</div>
+<span class="cv-skills">
+  <span class="cv-skill-item">CAD/CAE</span>
+  <span class="cv-skill-item">Manufacturing</span>
+  <span class="cv-skill-item">Robotics</span>
+  <span class="cv-skill-item">IoT</span>
+  <span class="cv-skill-item">AR/VR</span>
+  <span class="cv-skill-item">User-Centered Design</span>
+</span>
+<div style="margin-top:0.5em;">
+  <b>Coding & Tools:</b><br>
+  <span class="cv-skills">
+    <span class="cv-skill-item"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="24"/> Arduino</span>
+    <span class="cv-skill-item"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="24"/> ROS</span>
+    <span class="cv-skill-item"><img src="https://img.icons8.com/color/452/solidworks.png" width="24"/> SolidWorks</span>
+    <span class="cv-skill-item"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="24"/> C++</span>
+    <span class="cv-skill-item"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24"/> Python</span>
+    <span class="cv-skill-item"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="24"/> PyTorch</span>
+    <span class="cv-skill-item"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="24"/> TensorFlow</span>
+    <span class="cv-skill-item"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="24"/> Matlab</span>
+    <span class="cv-skill-item"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="24"/> Unity</span>
+    <!-- 你可以继续补充其它工具 -->
+  </span>
+</div>
+</div>
 <div class="cv-section">
 <div class="cv-title"><span class="icon">🧰</span>Skills</div>
 <span class="cv-skills">
