@@ -92,64 +92,35 @@ redirect_from:
 }
 </style>
 
-## Education
-### Hong Kong University of Science and Technology (09/2021 - 08/2024)
 <div class="cv-section">
 <div class="cv-title"><span class="icon">🎓</span>Education</div>
 <span class="cv-highlight">Hong Kong University of Science and Technology</span> <span class="cv-badge">09/2021 - 08/2024</span><br>
 Academy of Interdisciplinary Studies (AIS)<br>
 Ph.D. in IIP (Smart Manufacturing)<br>
-Supervisor: Prof. Yi Cai<a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/CAI-Yi/yicai" style="display:none">link</a>, Mingming Fan<a href="https://www.mingmingfan.com/" style="display:none">link</a>
-
-### South China University of Technology (09/2018 - 06/2021)
+Supervisor: Prof. <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/CAI-Yi/yicai" target="_blank">Yi Cai</a>, <a href="https://www.mingmingfan.com/" target="_blank">Mingming Fan</a><br>
 <span class="cv-highlight">South China University of Technology</span> <span class="cv-badge">09/2018 - 06/2021</span><br>
 School of Mechanical and Automotive Engineering<br>
 M.S. in Mechanical Engineering<br>
-Supervisor: Prof. Yingjun Wang<a href="https://structoptlab.github.io/" style="display:none">link</a>
-
-### South China University of Technology (09/2014 - 06/2018)
-<span class="cv-highlight">South China University of Technology</span> <span class="cv-badge">09/2014 - 06/2018</span><br>
-School of Mechanical and Automotive Engineering<br>
-B.S. in Mechanical Engineering<br>
-Supervisor: Prof. Zhijia Xu
-</div>
+Supervisor: Prof. <a href="https://structoptlab.github.io/" target="_blank">Yingjun Wang</a><br>
 <span class="cv-highlight">South China University of Technology</span> <span class="cv-badge">09/2014 - 06/2018</span><br>
 School of Mechanical and Automotive Engineering<br>
 B.S. in Mechanical Engineering<br>
 Supervisor: Prof. Zhijia Xu
 </div>
 
-## Professional Experience
 <div class="cv-section">
 <div class="cv-title"><span class="icon">💼</span>Professional Experience</div>
-<div class="cv-section">
-<div class="cv-title"><span class="icon">💼</span>Professional Experience</div>
-
-### Hong Kong University of Science and Technology (09/2024 - now)
 <span class="cv-highlight">Hong Kong University of Science and Technology</span> <span class="cv-badge">09/2024 - now</span><br>
 Postdoctoral Fellow, Hong Kong Center for Construction Robotics (HKCRC)<br>
-Supervisor: Prof. Michael Yu WANG<a href="https://seng.hkust.edu.hk/about/people/faculty/michael-yu-wang" style="display:none">link</a>
-  
-### North Carolina State University, Raleigh, USA
+Supervisor: Prof. <a href="https://seng.hkust.edu.hk/about/people/faculty/michael-yu-wang" target="_blank">Michael Yu WANG</a><br>
 <span class="cv-highlight">North Carolina State University, USA</span> <span class="cv-badge">2024</span><br>
 Visiting Scholar, Dept. of Industrial and Systems Engineering<br>
-Supervisor: Prof. Yuan-Shin Lee<a href="https://ise.ncsu.edu/people/yslee/" style="display:none">link</a>
-
-### Peking University, Beijing, China
+Supervisor: Prof. <a href="https://ise.ncsu.edu/people/yslee/" target="_blank">Yuan-Shin Lee</a><br>
 <span class="cv-highlight">Peking University, China</span> <span class="cv-badge">2024</span><br>
 Visiting Student, College of Engineering<br>
-Supervisor: Prof. Ke Liu<a href="http://www2.coe.pku.edu.cn/faculty/liuke/" style="display:none">link</a>
+Supervisor: Prof. <a href="http://www2.coe.pku.edu.cn/faculty/liuke/" target="_blank">Ke Liu</a>
 </div>
 
-## Internship
-<div class="cv-section">
-<div class="cv-title"><span class="icon">🛠️</span>Internship</div>
-<ul class="cv-list">
-  <li><b>Daimon Robotics Co. Ltd</b>, Tactile Sensor Algorithm Engineer <span class="cv-badge">2024-2025</span></li>
-  <li><b>ZWCAD Co. Ltd</b>, Graphic Algorithm Engineer <span class="cv-badge">2021</span></li>
-  <li><b>Guangzhou Tongda Auto Electric Co. LTD</b>, Mechanical Structure Engineer <span class="cv-badge">2017</span></li>
-</ul>
-</div>
 <div class="cv-section">
 <div class="cv-title"><span class="icon">🛠️</span>Internship</div>
 <ul class="cv-list">
@@ -159,22 +130,6 @@ Supervisor: Prof. Ke Liu<a href="http://www2.coe.pku.edu.cn/faculty/liuke/" styl
 </ul>
 </div>
 
-## Research Interest
-<div class="cv-section">
-<div class="cv-title"><span class="icon">🔬</span>Research Interest</div>
-<span class="cv-skills">
-<span class="cv-skill-item">Robot Manipulation</span>
-<span class="cv-skill-item">Tactile Sensor</span>
-<span class="cv-skill-item">Embodied AI & Skill</span>
-<span class="cv-skill-item">Digital Twin</span>
-<span class="cv-skill-item">Reconfigurable Soft Robots</span>
-<span class="cv-skill-item">Topology/Shape Optimization</span>
-<span class="cv-skill-item">Metamaterial Design</span>
-<span class="cv-skill-item">Additive Manufacturing</span>
-<span class="cv-skill-item">AR/VR/MR</span>
-<span class="cv-skill-item">Human-Robot Interaction</span>
-</span>
-</div>
 <div class="cv-section">
 <div class="cv-title"><span class="icon">🔬</span>Research Interest</div>
 <span class="cv-skills">
@@ -191,21 +146,6 @@ Supervisor: Prof. Ke Liu<a href="http://www2.coe.pku.edu.cn/faculty/liuke/" styl
 </span>
 </div>
 
-## Honors and Awards
-<div class="cv-section">
-<div class="cv-title"><span class="icon">🏆</span>Honors and Awards</div>
-<ul class="cv-list">
-  <li>Outstanding Paper Award of NAMRC51 <span class="cv-badge">2023</span></li>
-  <li>CMES Best Paper Award <span class="cv-badge">2023</span></li>
-  <li>National Scholarship (Twice) <span class="cv-badge">2019, 2020</span></li>
-  <li>HKUST Overseas Research Award <span class="cv-badge">2024</span></li>
-  <li>Outstanding Graduate Student of Guangdong Province <span class="cv-badge">2021</span></li>
-  <li>HKUST Postgraduate Scholarship <span class="cv-badge">2021-2024</span></li>
-  <li>Meritorious Winner of COMAP’s MCM <span class="cv-badge">2017</span></li>
-  <li>First Prize Winner in Guangdong Province of CUMCM <span class="cv-badge">2016</span></li>
-  <li>School Scholarship (Triple) <span class="cv-badge">2015–2018</span></li>
-</ul>
-</div>
 <div class="cv-section">
 <div class="cv-title"><span class="icon">🏆</span>Honors and Awards</div>
 <ul class="cv-list">
@@ -221,33 +161,6 @@ Supervisor: Prof. Ke Liu<a href="http://www2.coe.pku.edu.cn/faculty/liuke/" styl
 </ul>
 </div>
 
-## Skills
-<div class="cv-section">
-<div class="cv-title"><span class="icon">🧰</span>Skills</div>
-<span class="cv-skills">
-  <span class="cv-skill-item">CAD/CAE</span>
-  <span class="cv-skill-item">Manufacturing</span>
-  <span class="cv-skill-item">Robotics</span>
-  <span class="cv-skill-item">IoT</span>
-  <span class="cv-skill-item">AR/VR</span>
-  <span class="cv-skill-item">User-Centered Design</span>
-</span>
-<div style="margin-top:0.5em;">
-  <b>Coding & Tools:</b><br>
-  <span class="cv-skills">
-    <span class="cv-skill-item"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="24"/> Arduino</span>
-    <span class="cv-skill-item"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="24"/> ROS</span>
-    <span class="cv-skill-item"><img src="https://img.icons8.com/color/452/solidworks.png" width="24"/> SolidWorks</span>
-    <span class="cv-skill-item"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="24"/> C++</span>
-    <span class="cv-skill-item"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24"/> Python</span>
-    <span class="cv-skill-item"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="24"/> PyTorch</span>
-    <span class="cv-skill-item"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="24"/> TensorFlow</span>
-    <span class="cv-skill-item"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="24"/> Matlab</span>
-    <span class="cv-skill-item"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="24"/> Unity</span>
-    <!-- 你可以继续补充其它工具 -->
-  </span>
-</div>
-</div>
 <div class="cv-section">
 <div class="cv-title"><span class="icon">🧰</span>Skills</div>
 <span class="cv-skills">
@@ -275,7 +188,7 @@ Supervisor: Prof. Ke Liu<a href="http://www2.coe.pku.edu.cn/faculty/liuke/" styl
 </div>
 </div>
 
-<h3 align="left">Coding and Tools:</h3>
+
 <div class="cv-section">
 <div class="cv-title"><span class="icon">📚</span>Teaching</div>
 <ul class="cv-list">
@@ -287,20 +200,6 @@ Supervisor: Prof. Ke Liu<a href="http://www2.coe.pku.edu.cn/faculty/liuke/" styl
 
 <div class="cv-section">
 <div class="cv-title"><span class="icon">📝</span>Publication</div>
-
-
-## Teaching
-
-- **Teaching Assistant** at HKUST(GZ) - Spring 2023
-  - Cross-disciplinary Research Methods I (UCMP 6010)
-
-- **Teaching Assistant** at HKUST(GZ) - Fall 2022
-  - Design for Additive Manufacturing (SMMG 6000A)
-
-- **Teaching Assistant** at SCUT - Spring 2019
-  - Fluid Mechanics
-    
-## Publication
 
 ```
 Refereed Journal Papers:
