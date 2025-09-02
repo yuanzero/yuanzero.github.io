@@ -5,43 +5,90 @@ title: "Project"
 author_profile: true
 
 ---
-- **Quantitative Hardness Assessment with Vision-based Tactile Sensing for Fruit Classification and Grasping (2025)**
 
-<div style="text-align: justify">
-  Accurate estimation of fruit hardness is essential for automated classification and handling systems, particularly in determining fruit variety, assessing ripeness, and ensuring proper harvesting force. This study presents an innovative framework for quantitative hardness assessment utilizing vision-based tactile sensing, tailored explicitly for robotic applications in agriculture. The proposed methodology derives normal force estimation from a vision-based tactile sensor, and, based on the dynamics of this normal force, calculates the hardness. This approach offers a rapid, non-destructive evaluation through single-contact interaction. The integration of this framework into robotic systems enhances the real-time adaptability of grasping forces, thereby reducing the likelihood of fruit damage. Moreover, the general applicability of this approach, through a universal criterion based on average normal force dynamics, ensures its effectiveness across a wide variety of fruit types and sizes. Extensive experimental validation conducted across different fruit types and ripeness-tracking studies demonstrates the efficacy and robustness of the framework, marking a significant advancement in the domain of automated fruit handling.
+<style>
+.project-card {
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  margin-bottom: 2em;
+  padding: 1.2em 1.5em 1.2em 1.5em;
+  background: #fafbfc;
+  box-shadow: 0 2px 8px 0 rgba(0,0,0,0.03);
+}
+.project-title {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 0.2em;
+  display: flex;
+  align-items: center;
+}
+.project-badge {
+  background: #e3e3e3;
+  color: #555;
+  border-radius: 6px;
+  padding: 0.1em 0.7em;
+  font-size: 0.95em;
+  margin-left: 0.7em;
+}
+.project-links {
+  margin: 0.7em 0 0.5em 0;
+}
+.project-link-btn {
+  display: inline-block;
+  background: #1976d2;
+  color: #fff !important;
+  border-radius: 5px;
+  padding: 0.18em 0.9em;
+  margin-right: 0.7em;
+  font-size: 0.97em;
+  text-decoration: none;
+  transition: background 0.2s;
+}
+.project-link-btn:hover {
+  background: #1256a0;
+}
+.project-img {
+  display: block;
+  margin: 1em auto 0.5em auto;
+  max-width: 95%;
+  border-radius: 8px;
+  box-shadow: 0 1px 6px 0 rgba(0,0,0,0.07);
+}
+</style>
 
+<div class="project-card">
+  <div class="project-title">Quantitative Hardness Assessment with Vision-based Tactile Sensing for Fruit Classification and Grasping <span class="project-badge">2025</span></div>
+  <div style="text-align:justify;">
+    Accurate estimation of fruit hardness is essential for automated classification and handling systems, particularly in determining fruit variety, assessing ripeness, and ensuring proper harvesting force. This study presents an innovative framework for quantitative hardness assessment utilizing vision-based tactile sensing, tailored explicitly for robotic applications in agriculture. The proposed methodology derives normal force estimation from a vision-based tactile sensor, and, based on the dynamics of this normal force, calculates the hardness. This approach offers a rapid, non-destructive evaluation through single-contact interaction. The integration of this framework into robotic systems enhances the real-time adaptability of grasping forces, thereby reducing the likelihood of fruit damage. Moreover, the general applicability of this approach, through a universal criterion based on average normal force dynamics, ensures its effectiveness across a wide variety of fruit types and sizes. Extensive experimental validation conducted across different fruit types and ripeness-tracking studies demonstrates the efficacy and robustness of the framework, marking a significant advancement in the domain of automated fruit handling.
   </div>
-
-  
-  ![image](https://github.com/user-attachments/assets/3660a1a6-2579-4ff7-9b55-a6bba432673b)
-
-  [Paper](<https://arxiv.org/abs/2505.05725>)
-
-  
-
-- **Vision-based Tactile Sensor (2025)**
-
-
-  As a key member in the development of the Vision-based Tactile Sensors, DM-Tac W and DM-Tac F, at [Daimon Robotics](https://www.dmrobot.com/en/), I was responsible for SDK development, algorithm optimization, and integrating the sensors into the gripper, completing various dexterous robot manipulation tasks.
-
- 
-![image](https://github.com/user-attachments/assets/12d43909-cf20-4e0a-a7c8-4c88c70910ec)
-
- 
-
-  
-- **Digital Twin Systems for Reconfigurable Soft Robots (2023-2024)**
-
-<div style="text-align: justify">
-  In the rapidly evolving field of soft robotics, advancements in new materials, structural designs, and conceptual frameworks have propelled the rise of soft robot technology, particularly towards a highly versatile modular architecture with vast potential applications across various industries. However, one of the main challenges in this domain is the shape-morphing issue, as existing visualization and simulation tools struggle to adequately represent the complex and continuous deformation behaviors of soft robots. Furthermore, there is a distinct lack of intuitive, user-friendly platforms for visualizing and interactively controlling the shape-shifting capabilities of these robots. In response to these challenges, this paper introduces an innovative Digital Twin (DT) system specifically designed for reconfigurable soft robots, operating within an Augmented Reality (AR) environment. This system facilitates a more natural and accurate depiction of 3D soft deformations while providing an intuitive interface for simulation. We utilize a parameterized curve-driven method to dynamically adapt the DT in the AR space, ensuring smooth transitions between various 3D shape-morphing states. We identify three fundamental shape-morphing patterns—stretching, bending, and twisting—and create advanced visualization tools to precisely demonstrate these morphological changes. To enhance real-time representation of shape-morphing, we employ sensor fusion to detect and depict the soft robot's structural changes as parameterized curves. Our system is fully operational in an AR environment, empowering users to conduct immersive examinations and simulate reconfigurations of real-world soft robotic systems. 
-
+  <img class="project-img" src="https://github.com/user-attachments/assets/3660a1a6-2579-4ff7-9b55-a6bba432673b" alt="fruit hardness" />
+  <div class="project-links">
+    <a class="project-link-btn" href="https://arxiv.org/abs/2505.05725" target="_blank">Paper</a>
   </div>
+</div>
 
-  ![image](https://github.com/user-attachments/assets/cf3e018d-424c-4e68-8caa-55c696a89710)
 
-  [Code](https://github.com/yuanzero/DT-Reconfigurable-Soft-Robot/tree/master)
+<div class="project-card">
+  <div class="project-title">Vision-based Tactile Sensor <span class="project-badge">2025</span></div>
+  <div style="text-align:justify;">
+    As a key member in the development of the Vision-based Tactile Sensors, DM-Tac W and DM-Tac F, at <a href="https://www.dmrobot.com/en/" target="_blank">Daimon Robotics</a>, I was responsible for SDK development, algorithm optimization, and integrating the sensors into the gripper, completing various dexterous robot manipulation tasks.
+  </div>
+  <img class="project-img" src="https://github.com/user-attachments/assets/12d43909-cf20-4e0a-a7c8-4c88c70910ec" alt="tactile sensor" />
+</div>
 
-  [Paper: An Augmented Reality-enabled Digital Twin System for Reconfigurable Soft Robots: Visualization, Simulation, and Interaction](<https://www.sciencedirect.com/science/article/pii/S0166361525000508>)
+  
+
+<div class="project-card">
+  <div class="project-title">Digital Twin Systems for Reconfigurable Soft Robots <span class="project-badge">2023-2024</span></div>
+  <div style="text-align:justify;">
+    In the rapidly evolving field of soft robotics, advancements in new materials, structural designs, and conceptual frameworks have propelled the rise of soft robot technology, particularly towards a highly versatile modular architecture with vast potential applications across various industries. However, one of the main challenges in this domain is the shape-morphing issue, as existing visualization and simulation tools struggle to adequately represent the complex and continuous deformation behaviors of soft robots. Furthermore, there is a distinct lack of intuitive, user-friendly platforms for visualizing and interactively controlling the shape-shifting capabilities of these robots. In response to these challenges, this paper introduces an innovative Digital Twin (DT) system specifically designed for reconfigurable soft robots, operating within an Augmented Reality (AR) environment. This system facilitates a more natural and accurate depiction of 3D soft deformations while providing an intuitive interface for simulation. We utilize a parameterized curve-driven method to dynamically adapt the DT in the AR space, ensuring smooth transitions between various 3D shape-morphing states. We identify three fundamental shape-morphing patterns—stretching, bending, and twisting—and create advanced visualization tools to precisely demonstrate these morphological changes. To enhance real-time representation of shape-morphing, we employ sensor fusion to detect and depict the soft robot's structural changes as parameterized curves. Our system is fully operational in an AR environment, empowering users to conduct immersive examinations and simulate reconfigurations of real-world soft robotic systems.
+  </div>
+  <img class="project-img" src="https://github.com/user-attachments/assets/cf3e018d-424c-4e68-8caa-55c696a89710" alt="digital twin" />
+  <div class="project-links">
+    <a class="project-link-btn" href="https://github.com/yuanzero/DT-Reconfigurable-Soft-Robot/tree/master" target="_blank">Code</a>
+    <a class="project-link-btn" href="https://www.sciencedirect.com/science/article/pii/S0166361525000508" target="_blank">Paper</a>
+  </div>
+</div>
 
 
 - **Three-levels Digital Twin Systems for Human-Robot Interaction (2022-2023)**
@@ -51,11 +98,12 @@ author_profile: true
    
   </div>
 
-  [PDF](../../files/s40974-024-00327-7 (1).pdf)
-  
-  [Code](https://github.com/yuanzero/MR-Human-Robot-Interaction-Hololens2)
-  
-  ![image](https://github.com/user-attachments/assets/65b3a29e-05fd-45bc-9034-52c65106827c)
+
+  <div class="project-links">
+    <a class="project-link-btn" href="../../files/s40974-024-00327-7%20(1).pdf" target="_blank">PDF</a>
+    <a class="project-link-btn" href="https://github.com/yuanzero/MR-Human-Robot-Interaction-Hololens2" target="_blank">Code</a>
+  </div>
+  <img class="project-img" src="https://github.com/user-attachments/assets/65b3a29e-05fd-45bc-9034-52c65106827c" alt="image" />
 
 - **Design, Optimization, and Manufacturing Systems for Reconfigurable Modular Soft Robots (2021-2023)**
 
@@ -64,9 +112,11 @@ author_profile: true
      
   </div>
 
-  [PDF](../../files/CAD_20(6)_2023_1141-1153 (1).pdf)
 
-  ![image](https://github.com/user-attachments/assets/cac57803-c525-4245-a089-5aa951f58cd1)
+  <div class="project-links">
+    <a class="project-link-btn" href="../../files/CAD_20(6)_2023_1141-1153%20(1).pdf" target="_blank">PDF</a>
+  </div>
+  <img class="project-img" src="https://github.com/user-attachments/assets/cac57803-c525-4245-a089-5aa951f58cd1" alt="image" />
 
   
 - **Data-Driven Shape Optimization Design for Auxetics Using Isogeometric Analysis (2019-2021)**
@@ -76,9 +126,11 @@ author_profile: true
 
   </div>
   
-  [PDF](../../files/Liao 等。 - 2022 - Deep-learning-based isogeometric inverse design fo.pdf)
 
-![image](https://github.com/user-attachments/assets/0a9be658-006d-4ecf-9763-0bf8fa5e8d29)
+  <div class="project-links">
+    <a class="project-link-btn" href="../../files/Liao 等。 - 2022 - Deep-learning-based isogeometric inverse design fo.pdf" target="_blank">PDF</a>
+  </div>
+  <img class="project-img" src="https://github.com/user-attachments/assets/0a9be658-006d-4ecf-9763-0bf8fa5e8d29" alt="image" />
 
 
 - **Multiple Accelerated Methods for Mesh-based and Isogeometric Topology Optimization (2018-2019)**
@@ -88,11 +140,12 @@ author_profile: true
 
   </div>
 
-  [PDF](../../files/Liao 等。 - 2019 - A triple acceleration method for topology optimiza.pdf)
-  
-  [PDF](../../files/Wang 等。 - 2020 - An efficient isogeometric topology optimization us.pdf)
 
-![image](https://github.com/user-attachments/assets/217c9091-8008-496c-9bbe-a8622a355caf)
+  <div class="project-links">
+    <a class="project-link-btn" href="../../files/Liao 等。 - 2019 - A triple acceleration method for topology optimiza.pdf" target="_blank">PDF 1</a>
+    <a class="project-link-btn" href="../../files/Wang 等。 - 2020 - An efficient isogeometric topology optimization us.pdf" target="_blank">PDF 2</a>
+  </div>
+  <img class="project-img" src="https://github.com/user-attachments/assets/217c9091-8008-496c-9bbe-a8622a355caf" alt="image" />
 
 
 
@@ -103,6 +156,8 @@ author_profile: true
   
   </div>
 
-  [PDF](../../files/Liao - 2019 - Graded-density Lattice Structure Optimization Desi.pdf)
 
-![image](https://github.com/user-attachments/assets/9586c63b-2e20-48eb-96da-926c93dc436e)
+  <div class="project-links">
+    <a class="project-link-btn" href="../../files/Liao - 2019 - Graded-density Lattice Structure Optimization Desi.pdf" target="_blank">PDF</a>
+  </div>
+  <img class="project-img" src="https://github.com/user-attachments/assets/9586c63b-2e20-48eb-96da-926c93dc436e" alt="image" />
