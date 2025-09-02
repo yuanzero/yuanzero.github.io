@@ -183,6 +183,7 @@ Supervisor: Prof. <a href="http://www2.coe.pku.edu.cn/faculty/liuke/" target="_b
     <span class="cv-skill-item"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="24"/> TensorFlow</span>
     <span class="cv-skill-item"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="24"/> Matlab</span>
     <span class="cv-skill-item"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="24"/> Unity</span>
+    <span class="cv-skill-item"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlGZs_42IHB3VYsTyYGHpTUm-jAQzFVtlM-A&s" width="24"/> lerobot</span>
     <!-- 你可以继续补充其它工具 -->
   </span>
 </div>
