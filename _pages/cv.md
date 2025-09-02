@@ -218,7 +218,7 @@ Supervisor: Prof. <a href="http://www2.coe.pku.edu.cn/faculty/liuke/" target="_b
   <li>Y. Wang, <b>Zhongyuan Liao</b>, S. Shi, Z. Wang, &amp; L. Hien Poh. (2020). <i>Data-Driven Structural Design Optimization for Petal-Shaped Auxetics Using Isogeometric Analysis</i>. <b>Computer Modeling in Engineering &amp; Sciences, 122(2)</b>, 433–458. <span class="cv-badge">2023 Best Paper Award</span></li>
   <li>Y. Wang, <b>Zhongyuan Liao</b>, M. Ye, Y. Zhang, W. Li, &amp; Z. Xia. (2020). <i>An efficient isogeometric topology optimization using multilevel mesh, MGCG and local-update strategy</i>. <b>Advances in Engineering Software, 139</b>, 102733. <span class="cv-badge">ESI Highly Cited Paper</span></li>
   <li>Y. Zheng, Y. Wang, X. Lu, <b>Zhongyuan Liao</b>, &amp; J. Qu. (2020). <i>Evolutionary topology optimization for mechanical metamaterials with auxetic property</i>. <b>International Journal of Mechanical Sciences, 179</b>, 105638.</li>
-  <li><b>Zhongyuan Liao</b>, Y. Wang, &amp; S. Wang. (2019). <i>Graded-density Lattice Structure Optimization Design Based on Topology Optimization</i> (in Chinese). <b>Chinese Journal of Mechanical Engineering, 55(8)</b>, 65. <span class="cv-badge">2021 Best Paper Award</span></li>
+  <li><b>Zhongyuan Liao</b>, Y. Wang, &amp; S. Wang. (2019). <i>Graded-density Lattice Structure Optimization Design Based on Topology Optimization</i> (in Chinese). <b>Chinese Journal of Mechanical Engineering, 55(8)</b>, 65. <span class="cv-badge">2021 Outstanding Paper Award</span></li>
   <li><b>Zhongyuan Liao</b>, Y. Zhang, Y. Wang, &amp; W. Li. (2019). <i>A triple acceleration method for topology optimization</i>. <b>Structural and Multidisciplinary Optimization, 60(2)</b>, 727–744.</li>
 </ol>
 
