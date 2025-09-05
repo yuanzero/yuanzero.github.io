@@ -124,7 +124,7 @@ Supervisor: Prof. <a href="http://www2.coe.pku.edu.cn/faculty/liuke/" target="_b
 <div class="cv-section">
 <div class="cv-title"><span class="icon">🛠️</span>Internship</div>
 <ul class="cv-list">
-  <li><b>Daimon Robotics Co. Ltd</b>, Tactile Sensor Algorithm Engineer <span class="cv-badge">2024-2025</span></li>
+  <li><b>Daimon Robotics Co. Ltd</b>, Tactile Sensor Algorithm Engineer <span class="cv-badge">2025</span></li>
   <li><b>ZWCAD Co. Ltd</b>, Graphic Algorithm Engineer <span class="cv-badge">2021</span></li>
   <li><b>Guangzhou Tongda Auto Electric Co. LTD</b>, Mechanical Structure Engineer <span class="cv-badge">2017</span></li>
 </ul>
