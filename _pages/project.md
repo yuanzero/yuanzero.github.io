@@ -38,13 +38,7 @@ author_profile: true
   </div>
 </div>
 
-<div class="project-card">
-  <div class="project-title"><b>Vision-based Tactile Sensor</b> <span class="project-badge">2025</span></div>
-  <div style="text-align:justify; margin-top:0.5em;">
-    As a key member in the development of the Vision-based Tactile Sensors, DM-Tac W and DM-Tac F, at <a href="https://www.dmrobot.com/en/" target="_blank">Daimon Robotics</a>, I was responsible for SDK development, algorithm optimization, and integrating the sensors into the gripper, completing various dexterous robot manipulation tasks.
-  </div>
-  <img class="project-img" src="https://github.com/user-attachments/assets/12d43909-cf20-4e0a-a7c8-4c88c70910ec" alt="tactile sensor" />
-</div>
+
 
 
 <div class="project-card">
